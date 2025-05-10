@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WGU: D089 Principles of Economics OA Exam Quiz</title>
+  <style>
+    body {
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      background: linear-gradient(to right, #f8f9fa, #e0f7fa);
+      padding: 20px;
+      margin: 0;
+    }
+    h1 {
+      text-align: center;
+      color: #00796b;
+      font-size: 2.5rem;
+      margin-bottom: 30px;
+    }
+    .question {
+      background: #ffffff;
+      border: 2px dashed #009688;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 25px;
+      box-shadow: 2px 2px 8px rgba(0, 150, 136, 0.1);
+    }
+    .choices label {
+      display: block;
+      background: #e0f2f1;
+      border: 1px solid #b2dfdb;
+      padding: 8px;
+      border-radius: 8px;
+      margin-bottom: 10px;
+      cursor: pointer;
+      transition: background-color 0.2s;
+    }
+    .choices label:hover {
+      background-color: #b2ebf2;
+    }
+    .feedback {
+      margin-top: 10px;
+      font-weight: bold;
+      font-style: italic;
+    }
+    .progress-container {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      background: #ffffff;
+      padding: 10px 20px;
+      box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.1);
+      z-index: 1000;
+      font-size: 1.1rem;
+    }
+    .progress-bar {
+      width: 100%;
+      background-color: #c8e6c9;
+      border: 1px solid #81c784;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .progress-fill {
+      height: 24px;
+      background-color: #66bb6a;
+      width: 0%;
+      text-align: center;
+      color: white;
+      font-weight: bold;
+      line-height: 24px;
+      transition: width 0.5s;
+    }
+  </style>
+</head>
+<body>
+  <h1>📘 WGU: D089 Principles of Economics OA Exam Quiz 📘</h1>
+  <div id="quiz"></div>
+  <div class="progress-container">
+    <p>Score: <span id="score">0</span>/250 (<span id="percent">0</span>%)</p>
+    <div class="progress-bar">
+      <div class="progress-fill" id="progress-fill"></div>
+    </div>
+  </div>
+
+  <script>
+    const quizData = fetch('quiz-data.json')
+      .then(response => response.json())
+      .then(data => initializeQuiz(data))
+      .catch(error => console.error('Error loading quiz data:', error));
+
+    function initializeQuiz(quizData) {
+      const quizContainer = document.getElementById("quiz");
+      let score = 0;
+
+      quizData.forEach((q, idx) => {
+        const questionDiv = document.createElement("div");
+        questionDiv.className = "question";
+
+        const questionText = document.createElement("p");
+        questionText.innerHTML = `<strong>Q${idx + 1}:</strong> ${q.question}`;
+        questionDiv.appendChild(questionText);
+
+        const choicesDiv = document.createElement("div");
+        choicesDiv.className = "choices";
+
+        q.choices.forEach((choice, choiceIdx) => {
+          const label = document.createElement("label");
+          const input = document.createElement("input");
+          input.type = "radio";
+          input.name = `question${idx}`;
+          input.value = choiceIdx;
+          input.style.marginRight = "10px";
+          input.onclick = () => handleAnswer(idx, choiceIdx, q.correct, q.explanation);
+          label.appendChild(input);
+          label.append(` ${choice}`);
+          choicesDiv.appendChild(label);
+        });
+
+        const feedback = document.createElement("div");
+        feedback.className = "feedback";
+        feedback.id = `feedback${idx}`;
+
+        questionDiv.appendChild(choicesDiv);
+        questionDiv.appendChild(feedback);
+        quizContainer.appendChild(questionDiv);
+      });
+
+      function handleAnswer(qIndex, selected, correctAnswer, explanation) {
+        const feedback = document.getElementById(`feedback${qIndex}`);
+        if (feedback.innerHTML !== "") return;
+
+        if (selected === correctAnswer) {
+          score++;
+          feedback.innerHTML = `✅ Correct! 🎉 ${explanation}`;
+          feedback.style.color = "green";
+        } else {
+          feedback.innerHTML = `❌ Incorrect. Correct Answer: ${correctAnswer}<br>${explanation}`;
+          feedback.style.color = "red";
+        }
+
+        document.getElementById("score").innerText = score;
+        const percent = Math.round((score / quizData.length) * 100);
+        document.getElementById("percent").innerText = percent;
+        const progressFill = document.getElementById("progress-fill");
+        progressFill.style.width = percent + "%";
+        progressFill.innerText = percent + "%";
+      }
+    }
+  </script>
+</body>
+</html>
