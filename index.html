@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Economics Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    .question {
+      margin-bottom: 20px;
+    }
+    .choices label {
+      display: block;
+      margin-bottom: 5px;
+    }
+    .feedback {
+      margin-top: 10px;
+      font-weight: bold;
+    }
+    .progress {
+      margin-top: 30px;
+    }
+    .progress-bar {
+      width: 100%;
+      background-color: #f3f3f3;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    .progress-fill {
+      height: 20px;
+      background-color: #4caf50;
+      width: 0%;
+      text-align: center;
+      color: white;
+      line-height: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Economics Quiz</h1>
+  <div id="quiz"></div>
+  <div class="progress">
+    <p>Score: <span id="score">0</span>/250 (<span id="percent">0</span>%)</p>
+    <div class="progress-bar">
+      <div class="progress-fill" id="progress-fill"></div>
+    </div>
+  </div>
+
+  <script>
+    // Load quizData as a proper JavaScript array of objects
+    const quizData = fetch('quiz-data.json')
+      .then(response => response.json())
+      .then(data => initializeQuiz(data))
+      .catch(error => console.error('Error loading quiz data:', error));
+
+    function initializeQuiz(quizData) {
+      const quizContainer = document.getElementById("quiz");
+      let score = 0;
+
+      quizData.forEach((q, idx) => {
+        const questionDiv = document.createElement("div");
+        questionDiv.className = "question";
+
+        const questionText = document.createElement("p");
+        questionText.innerText = `${idx + 1}. ${q.question}`;
+        questionDiv.appendChild(questionText);
+
+        const choicesDiv = document.createElement("div");
+        choicesDiv.className = "choices";
+
+        q.choices.forEach((choice, choiceIdx) => {
+          const label = document.createElement("label");
+          const input = document.createElement("input");
+          input.type = "radio";
+          input.name = `question${idx}`;
+          input.value = choiceIdx;
+          input.onclick = () => handleAnswer(idx, choiceIdx, q.correct, q.explanation);
+          label.appendChild(input);
+          label.append(` ${choice}`);
+          choicesDiv.appendChild(label);
+        });
+
+        const feedback = document.createElement("div");
+        feedback.className = "feedback";
+        feedback.id = `feedback${idx}`;
+
+        questionDiv.appendChild(choicesDiv);
+        questionDiv.appendChild(feedback);
+        quizContainer.appendChild(questionDiv);
+      });
+
+      function handleAnswer(qIndex, selected, correctAnswer, explanation) {
+        const feedback = document.getElementById(`feedback${qIndex}`);
+        if (feedback.innerHTML !== "") return; // prevent re-answering
+
+        if (selected === correctAnswer) {
+          score++;
+          feedback.innerHTML = `Correct! ${explanation}`;
+          feedback.style.color = "green";
+        } else {
+          feedback.innerHTML = `Incorrect. Correct Answer: ${correctAnswer}<br>${explanation}`;
+          feedback.style.color = "red";
+        }
+
+        document.getElementById("score").innerText = score;
+        const percent = Math.round((score / quizData.length) * 100);
+        document.getElementById("percent").innerText = percent;
+        document.getElementById("progress-fill").style.width = percent + "%";
+        document.getElementById("progress-fill").innerText = percent + "%";
+      }
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,2752 @@
+[
+  {
+    "question": "What is the basic economic problem caused by scarcity?",
+    "choices": [
+      "a) Limited wants",
+      "b) Unlimited resources",
+      "c) Opportunity cost",
+      "d) Trade-offs"
+    ],
+    "correct": 3,
+    "explanation": "Scarcity forces individuals to make trade-offs between limited resources and unlimited wants, leading to decisions on how best to allocate resources."
+  },
+  {
+    "question": "What is the opportunity cost of a decision?",
+    "choices": [
+      "a) The next best alternative forgone",
+      "b) The monetary price paid",
+      "c) The total cost of the resources used",
+      "d) The time spent making the decision"
+    ],
+    "correct": 0,
+    "explanation": "Opportunity cost refers to the value of the next best alternative that is given up when a decision is made."
+  },
+  {
+    "question": "What does GDP measure?",
+    "choices": [
+      "a) The total market value of final goods and services produced",
+      "b) The standard of living",
+      "c) National income minus taxes",
+      "d) The level of government spending"
+    ],
+    "correct": 0,
+    "explanation": "GDP represents the total monetary value of all final goods and services produced within a country during a specific period."
+  },
+  {
+    "question": "Which type of unemployment is caused by technological advancements that replace jobs?",
+    "choices": [
+      "a) Frictional unemployment",
+      "b) Cyclical unemployment",
+      "c) Structural unemployment",
+      "d) Seasonal unemployment"
+    ],
+    "correct": 2,
+    "explanation": "Structural unemployment occurs when workers' skills are no longer in demand due to technological changes or outsourcing."
+  },
+  {
+    "question": "What happens to total revenue when demand is elastic and price decreases?",
+    "choices": [
+      "a) Total revenue increases",
+      "b) Total revenue decreases",
+      "c) Total revenue stays the same",
+      "d) Total revenue fluctuates"
+    ],
+    "correct": 0,
+    "explanation": "When demand is elastic, a decrease in price leads to a proportionally larger increase in the quantity demanded, which increases total revenue."
+  },
+  {
+    "question": "What is the Phillips curve used to illustrate?",
+    "choices": [
+      "a) The relationship between inflation and unemployment",
+      "b) The trade-off between investment and consumption",
+      "c) The supply and demand for labor",
+      "d) The correlation between government spending and taxes"
+    ],
+    "correct": 0,
+    "explanation": "The Phillips curve shows an inverse relationship between the rate of inflation and the rate of unemployment in an economy."
+  },
+  {
+    "question": "How does inflation affect lenders?",
+    "choices": [
+      "a) It increases the value of the money repaid",
+      "b) It reduces the value of the money repaid",
+      "c) It has no effect on the value of the money repaid",
+      "d) It increases interest rates"
+    ],
+    "correct": 1,
+    "explanation": "Inflation erodes the purchasing power of money, meaning the money repaid to lenders has less value than when it was lent out."
+  },
+  {
+    "question": "What are the two components of M2 money?",
+    "choices": [
+      "a) Cash and checkable deposits",
+      "b) M1 and certificates of deposit",
+      "c) Government bonds and stocks",
+      "d) Traveler\u2019s checks and debit cards"
+    ],
+    "correct": 1,
+    "explanation": "M2 includes all of M1 (cash, checkable deposits) plus savings deposits, money market funds, and time deposits like certificates of deposit."
+  },
+  {
+    "question": "What causes a shift in the short-run aggregate supply (SRAS) curve to the left?",
+    "choices": [
+      "a) A fall in input costs",
+      "b) A decrease in wages",
+      "c) A rise in input costs",
+      "d) Technological advancements"
+    ],
+    "correct": 2,
+    "explanation": "A rise in input costs, such as labor or raw materials, reduces firms' ability to produce, shifting the SRAS curve to the left."
+  },
+  {
+    "question": "What does a price floor cause when set above the equilibrium price?",
+    "choices": [
+      "a) Excess supply",
+      "b) Excess demand",
+      "c) Market equilibrium",
+      "d) A price ceiling"
+    ],
+    "correct": 0,
+    "explanation": "When a price floor is set above the equilibrium price, it leads to a surplus as suppliers produce more than consumers are willing to buy."
+  },
+  {
+    "question": "What does a tariff do?",
+    "choices": [
+      "a) Lowers the price of imports",
+      "b) Increases government revenue",
+      "c) Raises the price of imported goods",
+      "d) Lowers the cost of domestic goods"
+    ],
+    "correct": 2,
+    "explanation": "Tariffs are taxes imposed on imports, making them more expensive and thus protecting domestic industries from foreign competition."
+  },
+  {
+    "question": "What is the effect of an expansionary fiscal policy?",
+    "choices": [
+      "a) Decreases aggregate demand",
+      "b) Increases aggregate demand",
+      "c) Decreases inflation",
+      "d) Decreases government spending"
+    ],
+    "correct": 1,
+    "explanation": "Expansionary fiscal policy involves increasing government spending or decreasing taxes to stimulate economic activity and increase aggregate demand."
+  },
+  {
+    "question": "What is the goal of contractionary monetary policy?",
+    "choices": [
+      "a) To increase inflation",
+      "b) To increase aggregate demand",
+      "c) To decrease inflation",
+      "d) To decrease unemployment"
+    ],
+    "correct": 2,
+    "explanation": "Contractionary monetary policy reduces the money supply and raises interest rates to lower inflation by decreasing spending."
+  },
+  {
+    "question": "What happens to the quantity supplied when price rises, according to the law of supply?",
+    "choices": [
+      "a) Quantity supplied decreases",
+      "b) Quantity supplied increases",
+      "c) Quantity supplied remains constant",
+      "d) Quantity supplied fluctuates"
+    ],
+    "correct": 1,
+    "explanation": "The law of supply states that as the price of a good rises, suppliers are willing to produce and sell more of it, leading to an increase in quantity supplied."
+  },
+  {
+    "question": "What is a key characteristic of monopolistic competition?",
+    "choices": [
+      "a) A single seller dominates the market",
+      "b) Firms sell identical products",
+      "c) Firms sell differentiated products",
+      "d) Only a few firms compete in the market"
+    ],
+    "correct": 2,
+    "explanation": "In monopolistic competition, firms sell similar but not identical products, and they compete based on product differentiation, branding, or quality."
+  },
+  {
+    "question": "What is cyclical unemployment caused by?",
+    "choices": [
+      "a) Mismatches between workers\u2019 skills and job requirements",
+      "b) Changes in technology",
+      "c) Changes in the business cycle",
+      "d) Seasonal demand fluctuations"
+    ],
+    "correct": 2,
+    "explanation": "Cyclical unemployment occurs when there is a downturn in economic activity, leading to a reduction in demand for goods and services."
+  },
+  {
+    "question": "What is the relationship between aggregate demand and inflation?",
+    "choices": [
+      "a) Direct",
+      "b) Inverse",
+      "c) Neutral",
+      "d) Cyclical"
+    ],
+    "correct": 0,
+    "explanation": "When aggregate demand increases, inflation tends to rise as higher demand pushes prices up, creating a direct relationship between the two."
+  },
+  {
+    "question": "What is the effect of a quota?",
+    "choices": [
+      "a) Increases government revenue",
+      "b) Lowers the price of imports",
+      "c) Limits the quantity of goods that can be imported",
+      "d) Increases competition"
+    ],
+    "correct": 2,
+    "explanation": "Quotas restrict the amount of a specific good that can be imported, protecting domestic industries by reducing foreign competition."
+  },
+  {
+    "question": "What is the main purpose of the Federal Reserve?",
+    "choices": [
+      "a) To regulate fiscal policy",
+      "b) To control monetary policy and ensure financial stability",
+      "c) To increase government spending",
+      "d) To reduce unemployment"
+    ],
+    "correct": 1,
+    "explanation": "The Federal Reserve is the central bank of the United States, and its primary role is to manage monetary policy, stabilize prices, and ensure financial stability."
+  },
+  {
+    "question": "What are absolute quotas?",
+    "choices": [
+      "a) Taxes on imported goods",
+      "b) A fixed amount of goods allowed to be imported",
+      "c) A minimum quantity that must be imported",
+      "d) A trade restriction based on quality standards"
+    ],
+    "correct": 1,
+    "explanation": "Absolute quotas set a specific limit on the quantity of a good that can be imported into a country, regardless of price."
+  },
+  {
+    "question": "What is a comparative advantage in trade?",
+    "choices": [
+      "a) The ability to produce goods more efficiently than others",
+      "b) The ability to produce goods at a lower opportunity cost",
+      "c) The ability to trade without tariffs",
+      "d) The ability to produce more goods with fewer resources"
+    ],
+    "correct": 1,
+    "explanation": "Comparative advantage refers to the ability of a country to produce a good at a lower opportunity cost than another country, making trade beneficial."
+  },
+  {
+    "question": "What is crowding out?",
+    "choices": [
+      "a) When private investment decreases due to higher government borrowing",
+      "b) When government spending increases private investment",
+      "c) When inflation decreases private consumption",
+      "d) When higher wages reduce employment"
+    ],
+    "correct": 0,
+    "explanation": "Crowding out occurs when government borrowing drives up interest rates, reducing the availability of funds for private investment."
+  },
+  {
+    "question": "How do wages typically react to an inflationary gap in the long run?",
+    "choices": [
+      "a) Wages increase",
+      "b) Wages decrease",
+      "c) Wages remain constant",
+      "d) Wages fluctuate randomly"
+    ],
+    "correct": 0,
+    "explanation": "In the long run, an inflationary gap (when actual GDP exceeds potential GDP) leads to upward pressure on wages as employers compete for labor."
+  },
+  {
+    "question": "What is the primary function of money as a medium of exchange?",
+    "choices": [
+      "a) It stores value",
+      "b) It measures wealth",
+      "c) It facilitates trade",
+      "d) It sets interest rates"
+    ],
+    "correct": 2,
+    "explanation": "As a medium of exchange, money allows people to trade goods and services without the complications of bartering."
+  },
+  {
+    "question": "What is an example of an automatic stabilizer in fiscal policy?",
+    "choices": [
+      "a) Progressive income taxes",
+      "b) Discretionary government spending",
+      "c) Fixed interest rates",
+      "d) National debt repayments"
+    ],
+    "correct": 0,
+    "explanation": "Automatic stabilizers, like progressive taxes, naturally adjust to economic conditions by reducing tax burdens during recessions and increasing them during booms."
+  },
+  {
+    "question": "What happens in the long run when a recessionary gap exists?",
+    "choices": [
+      "a) Wages increase",
+      "b) Wages decrease",
+      "c) Prices decrease",
+      "d) Interest rates decrease"
+    ],
+    "correct": 1,
+    "explanation": "In the long run, a recessionary gap (when actual GDP is below potential GDP) leads to lower wages as there is less demand for labor."
+  },
+  {
+    "question": "What is the goal of open market operations?",
+    "choices": [
+      "a) To control inflation directly",
+      "b) To stabilize unemployment",
+      "c) To influence interest rates and the money supply",
+      "d) To raise taxes"
+    ],
+    "correct": 2,
+    "explanation": "Open market operations involve the Federal Reserve buying and selling government securities to control the money supply and influence interest rates."
+  },
+  {
+    "question": "What type of unemployment occurs when workers are temporarily between jobs?",
+    "choices": [
+      "a) Cyclical unemployment",
+      "b) Structural unemployment",
+      "c) Frictional unemployment",
+      "d) Seasonal unemployment"
+    ],
+    "correct": 2,
+    "explanation": "Frictional unemployment happens when workers are in transition between jobs or are entering the labor market for the first time."
+  },
+  {
+    "question": "What is the effect of a lower interest rate on aggregate demand?",
+    "choices": [
+      "a) Decreases aggregate demand",
+      "b) Increases aggregate demand",
+      "c) Has no effect on aggregate demand",
+      "d) Lowers investment"
+    ],
+    "correct": 1,
+    "explanation": "Lower interest rates make borrowing cheaper, encouraging businesses to invest and consumers to spend, thereby increasing aggregate demand."
+  },
+  {
+    "question": "What is the result of a price ceiling being set below the equilibrium price?",
+    "choices": [
+      "a) Surplus",
+      "b) Shortage",
+      "c) Equilibrium",
+      "d) No effect"
+    ],
+    "correct": 1,
+    "explanation": "A price ceiling set below the equilibrium price causes a shortage because the quantity demanded exceeds the quantity supplied at the lower price."
+  },
+  {
+    "question": "What is inflation?",
+    "choices": [
+      "a) An increase in the unemployment rate",
+      "b) A decrease in consumer spending",
+      "c) A general rise in prices over time",
+      "d) A decrease in the money supply"
+    ],
+    "correct": 2,
+    "explanation": "Inflation refers to the sustained increase in the general price level of goods and services in an economy over a period of time."
+  },
+  {
+    "question": "What is the Phillips curve\u2019s main trade-off?",
+    "choices": [
+      "a) Between wages and productivity",
+      "b) Between unemployment and inflation",
+      "c) Between investment and consumption",
+      "d) Between government spending and tax revenue"
+    ],
+    "correct": 1,
+    "explanation": "The Phillips curve illustrates the inverse relationship between unemployment and inflation, where lower unemployment often leads to higher inflation and vice versa."
+  },
+  {
+    "question": "What does monetary policy primarily aim to control?",
+    "choices": [
+      "a) The labor market",
+      "b) Government spending",
+      "c) The money supply and interest rates",
+      "d) Trade deficits"
+    ],
+    "correct": 2,
+    "explanation": "Monetary policy involves managing the money supply and interest rates to achieve macroeconomic objectives like controlling inflation and stabilizing the currency."
+  },
+  {
+    "question": "What happens when the price of a substitute good rises?",
+    "choices": [
+      "a) The demand for the related good decreases",
+      "b) The demand for the related good increases",
+      "c) The demand for the related good remains constant",
+      "d) The supply of the related good decreases"
+    ],
+    "correct": 1,
+    "explanation": "When the price of a substitute good rises, consumers tend to switch to the related good, increasing its demand."
+  },
+  {
+    "question": "What is a progressive tax?",
+    "choices": [
+      "a) A tax that remains the same regardless of income",
+      "b) A tax that decreases as income increases",
+      "c) A tax that increases as income increases",
+      "d) A tax that only applies to investments"
+    ],
+    "correct": 2,
+    "explanation": "A progressive tax system imposes a higher tax rate on higher-income earners and a lower rate on lower-income earners."
+  },
+  {
+    "question": "What causes a movement along the demand curve?",
+    "choices": [
+      "a) A change in income",
+      "b) A change in preferences",
+      "c) A change in the price of the good itself",
+      "d) A change in the price of a complementary good"
+    ],
+    "correct": 2,
+    "explanation": "A movement along the demand curve occurs when the price of the good changes, while other factors like preferences and income remain constant."
+  },
+  {
+    "question": "What is real GDP?",
+    "choices": [
+      "a) GDP adjusted for inflation",
+      "b) The sum of all government expenditures",
+      "c) GDP measured at current prices",
+      "d) The total value of intermediate goods"
+    ],
+    "correct": 0,
+    "explanation": "Real GDP measures the value of all goods and services produced in an economy, adjusted for inflation, to provide a clearer picture of economic growth."
+  },
+  {
+    "question": "What does a vertical long-run aggregate supply (LRAS) curve represent?",
+    "choices": [
+      "a) Constant unemployment",
+      "b) The natural rate of unemployment",
+      "c) Economic growth",
+      "d) Full employment output"
+    ],
+    "correct": 3,
+    "explanation": "The LRAS curve is vertical because, in the long run, the economy's output is determined by available resources, technology, and full employment, not by price levels."
+  },
+  {
+    "question": "What does the law of diminishing returns state?",
+    "choices": [
+      "a) Additional input leads to increased output at an increasing rate",
+      "b) Additional input eventually leads to less additional output",
+      "c) Additional input always leads to more efficient production",
+      "d) Additional input has no effect on output"
+    ],
+    "correct": 1,
+    "explanation": "The law of diminishing returns states that as more of a variable input (like labor) is added to a fixed input (like land), the additional output from each new unit of input will eventually decrease."
+  },
+  {
+    "question": "How is unemployment measured?",
+    "choices": [
+      "a) By counting everyone without a job",
+      "b) By dividing the number of unemployed people by the labor force",
+      "c) By dividing the number of employed people by the population",
+      "d) By counting only those actively seeking work"
+    ],
+    "correct": 1,
+    "explanation": "The unemployment rate is calculated by dividing the number of unemployed individuals (who are actively seeking work) by the total labor force."
+  },
+  {
+    "question": "What does a contractionary fiscal policy do?",
+    "choices": [
+      "a) Decreases government spending and increases taxes",
+      "b) Increases government spending and lowers taxes",
+      "c) Increases the money supply",
+      "d) Reduces interest rates"
+    ],
+    "correct": 0,
+    "explanation": "Contractionary fiscal policy is used to reduce inflation by decreasing aggregate demand, usually through reduced government spending and higher taxes."
+  },
+  {
+    "question": "What is a key difference between absolute and comparative advantage?",
+    "choices": [
+      "a) Absolute advantage is based on lower opportunity cost",
+      "b) Comparative advantage is based on productivity alone",
+      "c) Comparative advantage is based on lower opportunity cost",
+      "d) Absolute advantage focuses on international trade"
+    ],
+    "correct": 2,
+    "explanation": "Comparative advantage refers to producing a good at a lower opportunity cost, while absolute advantage refers to producing more of a good with the same resources."
+  },
+  {
+    "question": "How does expansionary monetary policy affect interest rates?",
+    "choices": [
+      "a) It raises interest rates",
+      "b) It reduces interest rates",
+      "c) It has no effect on interest rates",
+      "d) It increases both interest rates and inflation"
+    ],
+    "correct": 1,
+    "explanation": "Expansionary monetary policy increases the money supply, which lowers interest rates and encourages borrowing and investment."
+  },
+  {
+    "question": "What is the impact of an increase in productivity on the long-run aggregate supply (LRAS) curve?",
+    "choices": [
+      "a) It shifts the LRAS curve to the left",
+      "b) It shifts the LRAS curve to the right",
+      "c) It lowers potential GDP",
+      "d) It decreases aggregate demand"
+    ],
+    "correct": 1,
+    "explanation": "An increase in productivity allows the economy to produce more output with the same resources, shifting the LRAS curve to the right and increasing potential GDP."
+  },
+  {
+    "question": "What is the effect of inflation on purchasing power?",
+    "choices": [
+      "a) Increases purchasing power",
+      "b) Decreases purchasing power",
+      "c) Has no effect on purchasing power",
+      "d) Stabilizes purchasing power"
+    ],
+    "correct": 1,
+    "explanation": "Inflation erodes the purchasing power of money, meaning that each unit of currency buys fewer goods and services over time."
+  },
+  {
+    "question": "What happens when the Federal Reserve buys government securities?",
+    "choices": [
+      "a) The money supply decreases",
+      "b) The money supply increases",
+      "c) Interest rates rise",
+      "d) Inflation decreases"
+    ],
+    "correct": 1,
+    "explanation": "When the Federal Reserve buys government securities, it injects money into the economy, increasing the money supply and lowering interest rates."
+  },
+  {
+    "question": "What causes a movement along the supply curve?",
+    "choices": [
+      "a) A change in the price of inputs",
+      "b) A change in technology",
+      "c) A change in the price of the good itself",
+      "d) A change in government regulations"
+    ],
+    "correct": 2,
+    "explanation": "A movement along the supply curve occurs when there is a change in the price of the good, holding all other factors constant."
+  },
+  {
+    "question": "What is the role of the Federal Funds Rate?",
+    "choices": [
+      "a) It determines the interest rates on mortgages",
+      "b) It influences the interest rates banks charge each other for overnight loans",
+      "c) It is the rate the government charges for borrowing",
+      "d) It sets the rate for government bonds"
+    ],
+    "correct": 1,
+    "explanation": "The Federal Funds Rate is the interest rate at which banks lend to each other overnight, and it is a key tool in monetary policy."
+  },
+  {
+    "question": "What is a price ceiling?",
+    "choices": [
+      "a) The minimum price allowed by law",
+      "b) The maximum price allowed by law",
+      "c) The price set by market equilibrium",
+      "d) The average price of goods in the market"
+    ],
+    "correct": 1,
+    "explanation": "A price ceiling is a legal limit on how high the price of a good can be, often set to make essential goods more affordable."
+  },
+  {
+    "question": "What does the term \u201cfiat money\u201d mean?",
+    "choices": [
+      "a) Money backed by a commodity like gold",
+      "b) Money that has intrinsic value",
+      "c) Money that has no intrinsic value but is declared legal tender by the government",
+      "d) Money issued by private banks"
+    ],
+    "correct": 2,
+    "explanation": "Fiat money has no intrinsic value; its value is derived from government regulation or law, such as modern paper currency."
+  },
+  {
+    "question": "What is the result of an increase in the money supply?",
+    "choices": [
+      "a) Decrease in aggregate demand",
+      "b) Increase in aggregate demand",
+      "c) Increase in taxes",
+      "d) Decrease in investment"
+    ],
+    "correct": 1,
+    "explanation": "An increase in the money supply typically lowers interest rates, encouraging borrowing and spending, which in turn increases aggregate demand."
+  },
+  {
+    "question": "What is a protective tariff?",
+    "choices": [
+      "a) A tax on goods to protect domestic industries",
+      "b) A subsidy for exporting goods",
+      "c) A tax on imports to reduce government revenue",
+      "d) A tax on luxury goods"
+    ],
+    "correct": 0,
+    "explanation": "Protective tariffs are designed to make imported goods more expensive, thus encouraging consumers to buy domestically produced goods."
+  },
+  {
+    "question": "How does a reduction in interest rates affect borrowing?",
+    "choices": [
+      "a) It decreases borrowing",
+      "b) It increases borrowing",
+      "c) It stabilizes borrowing",
+      "d) It has no effect on borrowing"
+    ],
+    "correct": 1,
+    "explanation": "Lower interest rates reduce the cost of borrowing, making loans more attractive for businesses and consumers, leading to an increase in borrowing."
+  },
+  {
+    "question": "What is the primary function of the Federal Reserve?",
+    "choices": [
+      "a) Regulate international trade",
+      "b) Control inflation and stabilize the currency",
+      "c) Set tax policy",
+      "d) Manage government budgets"
+    ],
+    "correct": 1,
+    "explanation": "The Federal Reserve's main role is to manage the money supply and implement policies to control inflation, stabilize prices, and maintain a healthy economy."
+  },
+  {
+    "question": "What does a decrease in aggregate supply lead to?",
+    "choices": [
+      "a) Increased output",
+      "b) Higher prices and lower output",
+      "c) Lower prices and higher output",
+      "d) No change in output"
+    ],
+    "correct": 1,
+    "explanation": "A decrease in aggregate supply leads to cost-push inflation, where rising production costs result in higher prices and reduced output."
+  },
+  {
+    "question": "What is the definition of nominal GDP?",
+    "choices": [
+      "a) GDP adjusted for inflation",
+      "b) GDP measured in current prices",
+      "c) GDP calculated by subtracting imports from exports",
+      "d) GDP measured at constant prices"
+    ],
+    "correct": 1,
+    "explanation": "Nominal GDP measures the value of all goods and services produced in an economy using current prices, without adjusting for inflation."
+  },
+  {
+    "question": "What is the opportunity cost of a decision?",
+    "choices": [
+      "a) The financial gain from the decision",
+      "b) The benefit of the next best alternative that is forgone",
+      "c) The cost of producing an additional unit",
+      "d) The total expenditure on a project"
+    ],
+    "correct": 1,
+    "explanation": "Opportunity cost refers to the value of the next best alternative that is given up when making a choice."
+  },
+  {
+    "question": "What does a decrease in taxes generally lead to?",
+    "choices": [
+      "a) A decrease in aggregate demand",
+      "b) An increase in aggregate demand",
+      "c) An increase in the unemployment rate",
+      "d) A decrease in government spending"
+    ],
+    "correct": 1,
+    "explanation": "Lower taxes increase disposable income, which encourages more spending, leading to higher aggregate demand."
+  },
+  {
+    "question": "What is the role of an entrepreneur in a market economy?",
+    "choices": [
+      "a) To minimize government interference in the market",
+      "b) To take risks and create new products or services",
+      "c) To control monetary policy",
+      "d) To set wage levels for workers"
+    ],
+    "correct": 1,
+    "explanation": "Entrepreneurs are individuals who take risks to start businesses and innovate, contributing to economic growth by creating new products and services."
+  },
+  {
+    "question": "How do monopolies affect market prices?",
+    "choices": [
+      "a) They stabilize prices at equilibrium",
+      "b) They raise prices above competitive levels",
+      "c) They lower prices to attract more consumers",
+      "d) They have no effect on prices"
+    ],
+    "correct": 1,
+    "explanation": "Monopolies have market power, allowing them to restrict output and raise prices above what would occur in a competitive market."
+  },
+  {
+    "question": "What is a specific tariff?",
+    "choices": [
+      "a) A tax based on the value of imported goods",
+      "b) A tax that applies to only luxury items",
+      "c) A tax imposed as a fixed amount per unit of imported goods",
+      "d) A tax on services"
+    ],
+    "correct": 2,
+    "explanation": "A specific tariff is a fixed fee that is charged on each unit of an imported good, regardless of its value."
+  },
+  {
+    "question": "What does a price floor result in when set above the equilibrium price?",
+    "choices": [
+      "a) A shortage",
+      "b) A surplus",
+      "c) An increase in demand",
+      "d) A decrease in supply"
+    ],
+    "correct": 1,
+    "explanation": "When a price floor is set above the equilibrium price, it leads to a surplus because the quantity supplied exceeds the quantity demanded at the higher price."
+  },
+  {
+    "question": "What is fiscal policy?",
+    "choices": [
+      "a) Government policy regarding the money supply",
+      "b) Government decisions on taxes and spending to influence the economy",
+      "c) Policies that regulate international trade",
+      "d) The regulation of stock markets"
+    ],
+    "correct": 1,
+    "explanation": "Fiscal policy refers to government actions involving taxation and spending to influence the economy's overall level of demand and activity."
+  },
+  {
+    "question": "What is the natural rate of unemployment?",
+    "choices": [
+      "a) The rate of unemployment at the peak of the business cycle",
+      "b) The lowest possible unemployment rate",
+      "c) The unemployment rate when the economy is at full employment",
+      "d) The unemployment rate during a recession"
+    ],
+    "correct": 2,
+    "explanation": "The natural rate of unemployment is the level of unemployment that exists when the economy is producing at its potential output, including frictional and structural unemployment."
+  },
+  {
+    "question": "What happens when there is excess demand in a market?",
+    "choices": [
+      "a) Prices decrease",
+      "b) Prices increase",
+      "c) Prices remain constant",
+      "d) Supply decreases"
+    ],
+    "correct": 1,
+    "explanation": "When there is excess demand, consumers compete for the limited quantity of goods, driving prices upward."
+  },
+  {
+    "question": "How does a subsidy affect the supply curve?",
+    "choices": [
+      "a) It shifts the supply curve to the left",
+      "b) It shifts the supply curve to the right",
+      "c) It causes movement along the supply curve",
+      "d) It has no effect on the supply curve"
+    ],
+    "correct": 1,
+    "explanation": "A subsidy reduces production costs, enabling producers to supply more goods at each price level, shifting the supply curve to the right."
+  },
+  {
+    "question": "What is the law of diminishing returns?",
+    "choices": [
+      "a) Output increases at a constant rate as more inputs are added",
+      "b) Output increases at a decreasing rate as more inputs are added",
+      "c) Output decreases as more inputs are added",
+      "d) Output remains unchanged as inputs are added"
+    ],
+    "correct": 1,
+    "explanation": "The law of diminishing returns states that after a certain point, adding more inputs (like labor or capital) results in progressively smaller increases in output."
+  },
+  {
+    "question": "What is the primary goal of contractionary fiscal policy?",
+    "choices": [
+      "a) To increase government spending",
+      "b) To reduce inflation",
+      "c) To reduce unemployment",
+      "d) To increase consumer spending"
+    ],
+    "correct": 1,
+    "explanation": "Contractionary fiscal policy, such as decreasing government spending or increasing taxes, aims to reduce aggregate demand and curb inflation."
+  },
+  {
+    "question": "What is the difference between microeconomics and macroeconomics?",
+    "choices": [
+      "a) Microeconomics focuses on individual markets; macroeconomics focuses on the economy as a whole",
+      "b) Microeconomics focuses on international trade; macroeconomics focuses on domestic policy",
+      "c) Microeconomics studies inflation; macroeconomics studies interest rates",
+      "d) Microeconomics studies governments; macroeconomics studies businesses"
+    ],
+    "correct": 0,
+    "explanation": "Microeconomics examines the behavior of individuals and firms in specific markets, while macroeconomics looks at broader economic factors such as GDP, unemployment, and inflation."
+  },
+  {
+    "question": "What is the effect of an increase in consumer confidence on aggregate demand?",
+    "choices": [
+      "a) Decreases aggregate demand",
+      "b) Increases aggregate demand",
+      "c) Stabilizes aggregate demand",
+      "d) No effect on aggregate demand"
+    ],
+    "correct": 1,
+    "explanation": "Higher consumer confidence leads to increased spending, which raises aggregate demand as consumers are more willing to purchase goods and services."
+  },
+  {
+    "question": "What is the result of a price ceiling being set above the equilibrium price?",
+    "choices": [
+      "a) It creates a surplus",
+      "b) It creates a shortage",
+      "c) It has no effect",
+      "d) It increases demand"
+    ],
+    "correct": 2,
+    "explanation": "A price ceiling set above the equilibrium price has no impact because the market price is already below the ceiling, so the market functions as usual."
+  },
+  {
+    "question": "What is a recession?",
+    "choices": [
+      "a) A period of high inflation",
+      "b) A period of declining GDP and rising unemployment",
+      "c) A period of increased economic growth",
+      "d) A period of deflation"
+    ],
+    "correct": 1,
+    "explanation": "A recession is characterized by a significant decline in economic activity, marked by falling GDP and rising unemployment over a sustained period."
+  },
+  {
+    "question": "What happens when aggregate demand increases faster than aggregate supply?",
+    "choices": [
+      "a) Prices remain stable",
+      "b) Inflation occurs",
+      "c) Unemployment rises",
+      "d) Government spending decreases"
+    ],
+    "correct": 1,
+    "explanation": "When aggregate demand outpaces aggregate supply, it puts upward pressure on prices, leading to inflation as consumers compete for limited goods and services."
+  },
+  {
+    "question": "How do supply and demand determine equilibrium price?",
+    "choices": [
+      "a) By government intervention in markets",
+      "b) Through the interaction of buyers and sellers",
+      "c) By businesses setting prices",
+      "d) By consumer preferences alone"
+    ],
+    "correct": 1,
+    "explanation": "The equilibrium price is determined by the point where the quantity of a good demanded by consumers equals the quantity supplied by producers."
+  },
+  {
+    "question": "What is the definition of economic growth?",
+    "choices": [
+      "a) A decrease in the inflation rate",
+      "b) A sustained increase in real GDP",
+      "c) An increase in the unemployment rate",
+      "d) A reduction in consumer spending"
+    ],
+    "correct": 1,
+    "explanation": "Economic growth refers to a long-term rise in real GDP, indicating an increase in the economy's overall production of goods and services."
+  },
+  {
+    "question": "What is a market economy?",
+    "choices": [
+      "a) An economy where the government makes all production decisions",
+      "b) An economy where production and prices are determined by the interaction of supply and demand",
+      "c) An economy that relies solely on barter",
+      "d) An economy that limits trade to local markets only"
+    ],
+    "correct": 1,
+    "explanation": "In a market economy, production and pricing decisions are made through the free interaction of supply and demand, with minimal government interference."
+  },
+  {
+    "question": "What causes a movement along the demand curve?",
+    "choices": [
+      "a) A change in consumer preferences",
+      "b) A change in price",
+      "c) A change in population",
+      "d) A change in income"
+    ],
+    "correct": 1,
+    "explanation": "A movement along the demand curve occurs when the price of a good or service changes, while all other factors affecting demand remain constant."
+  },
+  {
+    "question": "What happens to the supply of a product if the cost of production decreases?",
+    "choices": [
+      "a) The supply curve shifts to the right",
+      "b) The supply curve shifts to the left",
+      "c) The supply curve remains unchanged",
+      "d) The quantity supplied decreases"
+    ],
+    "correct": 0,
+    "explanation": "If production costs decrease, firms can produce more at every price level, leading to an increase in supply and a rightward shift of the supply curve."
+  },
+  {
+    "question": "What is the crowding out effect?",
+    "choices": [
+      "a) When private investment increases due to government borrowing",
+      "b) When government borrowing leads to higher interest rates, reducing private investment",
+      "c) When government subsidies reduce tax revenue",
+      "d) When inflation crowds out consumer purchasing power"
+    ],
+    "correct": 1,
+    "explanation": "The crowding out effect occurs when government borrowing increases interest rates, which can discourage private investment."
+  },
+  {
+    "question": "What is real GDP?",
+    "choices": [
+      "a) The value of all goods and services produced, adjusted for inflation",
+      "b) The total amount of money in an economy",
+      "c) The GDP of a country measured in foreign currency",
+      "d) The total value of imports and exports"
+    ],
+    "correct": 0,
+    "explanation": "Real GDP adjusts for inflation to measure the value of goods and services produced in constant prices, providing a more accurate picture of economic growth."
+  },
+  {
+    "question": "What is a business cycle?",
+    "choices": [
+      "a) The total value of imports and exports over a period of time",
+      "b) The fluctuation of economic activity over time, including expansions and contractions",
+      "c) The process of firms entering and exiting a market",
+      "d) The relationship between price and quantity supplied"
+    ],
+    "correct": 1,
+    "explanation": "The business cycle refers to the ups and downs in economic activity, marked by periods of expansion (growth) and contraction (recession)."
+  },
+  {
+    "question": "What are open market operations?",
+    "choices": [
+      "a) Government subsidies for foreign trade",
+      "b) The buying and selling of government bonds by the Federal Reserve",
+      "c) The establishment of free trade agreements",
+      "d) Tax policies set by the government"
+    ],
+    "correct": 1,
+    "explanation": "Open market operations are one of the Federal Reserve's key tools for managing the money supply, where they buy or sell government bonds to influence interest rates and liquidity."
+  },
+  {
+    "question": "What is inflation?",
+    "choices": [
+      "a) A decrease in the general price level of goods and services",
+      "b) An increase in the general price level of goods and services",
+      "c) An increase in the supply of goods and services",
+      "d) A decrease in consumer confidence"
+    ],
+    "correct": 1,
+    "explanation": "Inflation refers to the general rise in prices across the economy, which reduces the purchasing power of money."
+  },
+  {
+    "question": "What is cyclical unemployment?",
+    "choices": [
+      "a) Unemployment that results from technological changes",
+      "b) Unemployment caused by changes in consumer preferences",
+      "c) Unemployment due to economic downturns or recessions",
+      "d) Unemployment that occurs as people move between jobs"
+    ],
+    "correct": 2,
+    "explanation": "Cyclical unemployment occurs when there is insufficient demand for goods and services in the economy, often resulting from a recession."
+  },
+  {
+    "question": "What is the primary purpose of a price ceiling?",
+    "choices": [
+      "a) To ensure that producers can charge higher prices",
+      "b) To prevent prices from rising above a certain level",
+      "c) To reduce consumer demand for a product",
+      "d) To increase the supply of goods"
+    ],
+    "correct": 1,
+    "explanation": "A price ceiling is a government-imposed limit on how high a price can be charged for a product, usually to protect consumers from excessively high prices."
+  },
+  {
+    "question": "What does the term \u201ccomparative advantage\u201d refer to in international trade?",
+    "choices": [
+      "a) The ability of a country to produce goods more efficiently than any other country",
+      "b) The ability of a country to produce a good at a lower opportunity cost than another country",
+      "c) The ability of a country to control the market price for a good",
+      "d) The ability of a country to restrict imports and exports"
+    ],
+    "correct": 1,
+    "explanation": "Comparative advantage allows countries to specialize in the production of goods where they have a lower opportunity cost, leading to gains from trade."
+  },
+  {
+    "question": "What happens when the government increases the discount rate?",
+    "choices": [
+      "a) Banks borrow more from the Federal Reserve",
+      "b) Banks borrow less from the Federal Reserve",
+      "c) Inflation increases",
+      "d) Aggregate demand increases"
+    ],
+    "correct": 1,
+    "explanation": "A higher discount rate makes borrowing more expensive for banks, which discourages them from taking loans from the Federal Reserve."
+  },
+  {
+    "question": "What are transfer payments?",
+    "choices": [
+      "a) Payments made to foreign governments",
+      "b) Payments made to individuals or firms in return for goods or services",
+      "c) Payments made by the government to individuals, without goods or services being exchanged",
+      "d) Payments made by companies to shareholders"
+    ],
+    "correct": 2,
+    "explanation": "Transfer payments, such as welfare benefits and Social Security, are payments made by the government to individuals without requiring any goods or services in return."
+  },
+  {
+    "question": "What does the Phillips curve illustrate?",
+    "choices": [
+      "a) The relationship between inflation and unemployment",
+      "b) The relationship between price and quantity supplied",
+      "c) The relationship between GDP and government spending",
+      "d) The relationship between interest rates and investment"
+    ],
+    "correct": 0,
+    "explanation": "The Phillips curve shows the inverse relationship between inflation and unemployment, indicating that as one rises, the other tends to fall."
+  },
+  {
+    "question": "What is the main goal of expansionary fiscal policy?",
+    "choices": [
+      "a) To decrease government spending",
+      "b) To reduce inflation",
+      "c) To increase aggregate demand and stimulate economic growth",
+      "d) To lower interest rates"
+    ],
+    "correct": 2,
+    "explanation": "Expansionary fiscal policy, such as increasing government spending or cutting taxes, aims to boost aggregate demand and promote economic growth."
+  },
+  {
+    "question": "What are examples of automatic stabilizers in the economy?",
+    "choices": [
+      "a) Interest rates and open market operations",
+      "b) Transfer payments and progressive tax systems",
+      "c) Price floors and ceilings",
+      "d) Monetary policy and exchange rates"
+    ],
+    "correct": 1,
+    "explanation": "Automatic stabilizers, like transfer payments (e.g., unemployment benefits) and progressive taxes, automatically adjust to counteract economic fluctuations without direct government intervention."
+  },
+  {
+    "question": "What is a quota in international trade?",
+    "choices": [
+      "a) A tax on imported goods",
+      "b) A limit on the quantity of a good that can be imported",
+      "c) A subsidy for domestic producers",
+      "d) A restriction on foreign investments"
+    ],
+    "correct": 1,
+    "explanation": "A quota restricts the amount of a certain good that can be imported into a country, often to protect domestic industries."
+  },
+  {
+    "question": "What does a vertical long-run aggregate supply (LRAS) curve represent?",
+    "choices": [
+      "a) The economy is at full employment",
+      "b) The economy is experiencing a recession",
+      "c) Aggregate demand is decreasing",
+      "d) Prices are perfectly flexible"
+    ],
+    "correct": 0,
+    "explanation": "A vertical LRAS curve indicates that the economy is operating at full employment and that any increase in aggregate demand will only lead to inflation, not an increase in output."
+  },
+  {
+    "question": "What happens to the supply curve when a new technology improves production efficiency?",
+    "choices": [
+      "a) It shifts to the left",
+      "b) It shifts to the right",
+      "c) It becomes steeper",
+      "d) It remains unchanged"
+    ],
+    "correct": 1,
+    "explanation": "New technology increases production efficiency, enabling firms to produce more at each price level, thus shifting the supply curve to the right."
+  },
+  {
+    "question": "What is price elasticity of demand?",
+    "choices": [
+      "a) The responsiveness of quantity demanded to a change in price",
+      "b) The responsiveness of price to a change in demand",
+      "c) The ability of a company to set prices",
+      "d) The fixed relationship between price and quantity"
+    ],
+    "correct": 0,
+    "explanation": "Price elasticity of demand measures how sensitive the quantity demanded is to changes in price. High elasticity means consumers are very responsive to price changes."
+  },
+  {
+    "question": "What is a tariff?",
+    "choices": [
+      "a) A limit on the number of goods that can be imported",
+      "b) A tax imposed on imports or exports",
+      "c) A government subsidy for domestic production",
+      "d) A restriction on foreign investment"
+    ],
+    "correct": 1,
+    "explanation": "A tariff is a tax placed on imported or exported goods, often used to protect domestic industries or generate government revenue."
+  },
+  {
+    "question": "What is a budget deficit?",
+    "choices": [
+      "a) When government revenues exceed expenditures",
+      "b) When government expenditures exceed revenues",
+      "c) When the economy is in full employment",
+      "d) When inflation is at zero"
+    ],
+    "correct": 1,
+    "explanation": "A budget deficit occurs when a government spends more than it collects in revenue, leading to borrowing or debt."
+  },
+  {
+    "question": "What is a public good?",
+    "choices": [
+      "a) A good that can be provided by private companies",
+      "b) A good that is non-excludable and non-rivalrous, meaning anyone can use it without reducing its availability to others",
+      "c) A good that is excludable and rivalrous",
+      "d) A good that is subject to market competition"
+    ],
+    "correct": 1,
+    "explanation": "Public goods, such as national defense or public parks, are accessible to all members of society without diminishing the quantity available for others."
+  },
+  {
+    "question": "What is the difference between a recession and a depression?",
+    "choices": [
+      "a) A recession is a prolonged downturn in the economy, while a depression is a short-term slowdown",
+      "b) A depression is a severe and prolonged recession",
+      "c) A recession affects inflation, while a depression affects unemployment",
+      "d) A depression occurs only when inflation is negative"
+    ],
+    "correct": 1,
+    "explanation": "A depression is a more extreme form of economic downturn than a recession, characterized by a significant and prolonged decline in economic activity."
+  },
+  {
+    "question": "What is the role of the Federal Reserve?",
+    "choices": [
+      "a) To set tax rates for consumers and businesses",
+      "b) To regulate the money supply and maintain economic stability",
+      "c) To establish trade agreements with foreign countries",
+      "d) To control the national debt"
+    ],
+    "correct": 1,
+    "explanation": "The Federal Reserve is the central bank of the United States and is responsible for controlling inflation, managing the money supply, and maintaining overall economic stability."
+  },
+  {
+    "question": "What is the definition of scarcity?",
+    "choices": [
+      "a) The unlimited availability of resources",
+      "b) The limited nature of society\u2019s resources",
+      "c) The abundance of resources compared to needs",
+      "d) The increase of production leading to oversupply"
+    ],
+    "correct": 1,
+    "explanation": "Scarcity refers to the basic economic problem where resources are limited, but human wants are unlimited."
+  },
+  {
+    "question": "What does opportunity cost represent?",
+    "choices": [
+      "a) The monetary price of a good or service",
+      "b) The value of the next best alternative that is forgone",
+      "c) The total cost of production",
+      "d) The fixed cost of providing a good or service"
+    ],
+    "correct": 1,
+    "explanation": "Opportunity cost is what is sacrificed in making one choice over another, highlighting the trade-offs involved in decision-making."
+  },
+  {
+    "question": "What does the law of demand state?",
+    "choices": [
+      "a) As price increases, quantity demanded decreases",
+      "b) As price decreases, quantity demanded decreases",
+      "c) Price and demand move in the same direction",
+      "d) Quantity demanded is constant, regardless of price"
+    ],
+    "correct": 0,
+    "explanation": "The law of demand shows an inverse relationship between price and quantity demanded\u2014consumers tend to buy more at lower prices and less at higher prices."
+  },
+  {
+    "question": "What is the primary function of money in an economy?",
+    "choices": [
+      "a) To produce goods and services",
+      "b) To act as a medium of exchange",
+      "c) To replace the need for goods and services",
+      "d) To regulate the availability of resources"
+    ],
+    "correct": 1,
+    "explanation": "Money facilitates trade by serving as a medium of exchange, making transactions easier and more efficient."
+  },
+  {
+    "question": "What is a mixed economy?",
+    "choices": [
+      "a) An economy that relies solely on government control",
+      "b) An economy with a combination of free market and government intervention",
+      "c) An economy based on traditional practices",
+      "d) An economy that uses only barter as a form of exchange"
+    ],
+    "correct": 1,
+    "explanation": "A mixed economy combines aspects of a free market with some level of government regulation to correct market failures and provide public goods."
+  },
+  {
+    "question": "What is the primary goal of contractionary fiscal policy?",
+    "choices": [
+      "a) To increase government spending",
+      "b) To decrease aggregate demand and control inflation",
+      "c) To stimulate economic growth",
+      "d) To raise consumer confidence"
+    ],
+    "correct": 1,
+    "explanation": "Contractionary fiscal policy is used to reduce inflation by decreasing aggregate demand through reduced government spending or increased taxes."
+  },
+  {
+    "question": "What is a price floor?",
+    "choices": [
+      "a) The maximum price set by the government",
+      "b) The minimum legal price at which a good can be sold",
+      "c) The lowest price at which demand equals supply",
+      "d) The price where quantity supplied exceeds quantity demanded"
+    ],
+    "correct": 1,
+    "explanation": "A price floor is the lowest legal price a product can be sold at, usually set by the government to protect producers."
+  },
+  {
+    "question": "What is the circular flow model?",
+    "choices": [
+      "a) A model showing the flow of resources and products through the economy",
+      "b) A model demonstrating the flow of government spending",
+      "c) A model showing how goods are transferred between countries",
+      "d) A model focusing on the inflation and interest rates"
+    ],
+    "correct": 0,
+    "explanation": "The circular flow model illustrates how households, businesses, and the government interact in the economy, involving flows of money, goods, and services."
+  },
+  {
+    "question": "What happens in a perfectly competitive market?",
+    "choices": [
+      "a) Firms set their prices freely",
+      "b) Many firms sell identical products, and no single firm can influence the market price",
+      "c) Only a few firms dominate the market",
+      "d) There are high barriers to entry for new firms"
+    ],
+    "correct": 1,
+    "explanation": "In perfect competition, firms are price takers, meaning they must accept the market price because there are many competitors offering identical products."
+  },
+  {
+    "question": "What is an externality?",
+    "choices": [
+      "a) The cost of production",
+      "b) A benefit or cost that affects a third party not directly involved in the transaction",
+      "c) The cost incurred by consumers when purchasing a product",
+      "d) The total cost of exporting goods"
+    ],
+    "correct": 1,
+    "explanation": "Externalities occur when a third party experiences a benefit or cost from an economic transaction they are not directly involved in, such as pollution or education."
+  },
+  {
+    "question": "What is a positive economic statement?",
+    "choices": [
+      "a) A statement based on opinions and value judgments",
+      "b) A statement that can be tested and validated",
+      "c) A statement advocating for a particular policy",
+      "d) A statement reflecting social preferences"
+    ],
+    "correct": 1,
+    "explanation": "Positive economic statements are objective and based on factual data, making them testable and verifiable."
+  },
+  {
+    "question": "How do price ceilings affect a market?",
+    "choices": [
+      "a) They always increase the quality of goods",
+      "b) They can lead to shortages if set below the equilibrium price",
+      "c) They ensure that producers maximize profits",
+      "d) They decrease the quantity demanded"
+    ],
+    "correct": 1,
+    "explanation": "Price ceilings can cause shortages when set below equilibrium, as the lower price increases demand but discourages supply."
+  },
+  {
+    "question": "What does the production possibilities frontier (PPF) illustrate?",
+    "choices": [
+      "a) The relationship between supply and demand",
+      "b) The maximum combinations of goods and services that can be produced given available resources",
+      "c) The impact of price changes on the market",
+      "d) The relationship between inflation and unemployment"
+    ],
+    "correct": 1,
+    "explanation": "The PPF demonstrates the trade-offs and opportunity costs of producing different combinations of goods within an economy\u2019s resource constraints."
+  },
+  {
+    "question": "What is the definition of GDP (Gross Domestic Product)?",
+    "choices": [
+      "a) The total value of all foreign investments in a country",
+      "b) The total value of all goods and services produced within a country\u2019s borders in a given period",
+      "c) The value of all exports and imports",
+      "d) The total amount of money circulating in an economy"
+    ],
+    "correct": 1,
+    "explanation": "GDP measures the economic output within a country, capturing the value of all goods and services produced in a specific time frame."
+  },
+  {
+    "question": "What is the primary role of financial intermediaries in an economy?",
+    "choices": [
+      "a) To regulate prices in the market",
+      "b) To match borrowers with savers",
+      "c) To control inflation directly",
+      "d) To set interest rates"
+    ],
+    "correct": 1,
+    "explanation": "Financial intermediaries, such as banks, play a key role in facilitating the flow of funds between those who want to save money and those who need to borrow."
+  },
+  {
+    "question": "What is the primary advantage of free trade?",
+    "choices": [
+      "a) Increased regulation of the economy",
+      "b) Access to cheaper goods and services",
+      "c) Increased control over domestic industries",
+      "d) Protection from international competition"
+    ],
+    "correct": 1,
+    "explanation": "Free trade allows countries to specialize in producing goods at a lower opportunity cost, which leads to more efficient production and lower prices for consumers."
+  },
+  {
+    "question": "What is an example of cyclical unemployment?",
+    "choices": [
+      "a) A worker loses their job because of automation",
+      "b) A worker is unemployed because of a recession",
+      "c) A worker quits their job to find a better one",
+      "d) A worker is unemployed due to a mismatch of skills"
+    ],
+    "correct": 1,
+    "explanation": "Cyclical unemployment occurs during economic downturns or recessions when there is not enough demand for goods and services."
+  },
+  {
+    "question": "What is the primary goal of monetary policy?",
+    "choices": [
+      "a) To regulate prices of essential goods",
+      "b) To control the money supply and maintain price stability",
+      "c) To increase government spending",
+      "d) To ensure higher tax revenue"
+    ],
+    "correct": 1,
+    "explanation": "Monetary policy aims to manage inflation, control interest rates, and regulate the money supply to ensure economic stability."
+  },
+  {
+    "question": "What is an example of a public good?",
+    "choices": [
+      "a) A movie ticket",
+      "b) National defense",
+      "c) A loaf of bread",
+      "d) A private swimming pool"
+    ],
+    "correct": 1,
+    "explanation": "Public goods are non-excludable and non-rivalrous, meaning that individuals cannot be excluded from their use and one person\u2019s use does not reduce availability for others."
+  },
+  {
+    "question": "What is structural unemployment?",
+    "choices": [
+      "a) Unemployment caused by short-term layoffs",
+      "b) Unemployment due to economic recessions",
+      "c) Unemployment resulting from workers\u2019 skills not matching the jobs available",
+      "d) Unemployment caused by changes in consumer demand"
+    ],
+    "correct": 2,
+    "explanation": "Structural unemployment occurs when there is a mismatch between the skills of the labor force and the jobs available in the market."
+  },
+  {
+    "question": "What happens to the value of money during inflation?",
+    "choices": [
+      "a) It increases",
+      "b) It remains constant",
+      "c) It decreases",
+      "d) It becomes more valuable over time"
+    ],
+    "correct": 2,
+    "explanation": "Inflation reduces the purchasing power of money, meaning the same amount of money buys fewer goods and services over time."
+  },
+  {
+    "question": "What is the function of a bond?",
+    "choices": [
+      "a) To represent ownership in a company",
+      "b) To provide a fixed income for the bondholder in exchange for lending money",
+      "c) To offer variable returns based on market performance",
+      "d) To serve as a form of equity investment"
+    ],
+    "correct": 1,
+    "explanation": "Bonds are debt instruments where investors lend money to entities (governments or corporations) in exchange for periodic interest payments and repayment of principal at maturity."
+  },
+  {
+    "question": "What does fiscal policy primarily involve?",
+    "choices": [
+      "a) Managing the money supply",
+      "b) Adjusting interest rates",
+      "c) Government spending and taxation decisions",
+      "d) Regulating private enterprises"
+    ],
+    "correct": 2,
+    "explanation": "Fiscal policy uses government spending and taxation to influence the economy, aiming to control inflation, stimulate growth, or reduce unemployment."
+  },
+  {
+    "question": "What does the law of supply state?",
+    "choices": [
+      "a) As price increases, quantity supplied decreases",
+      "b) As price decreases, quantity supplied increases",
+      "c) As price increases, quantity supplied increases",
+      "d) Price has no impact on the quantity supplied"
+    ],
+    "correct": 2,
+    "explanation": "The law of supply shows a direct relationship between price and quantity supplied\u2014firms are willing to supply more at higher prices and less at lower prices."
+  },
+  {
+    "question": "What is the purpose of a price index like the Consumer Price Index (CPI)?",
+    "choices": [
+      "a) To track changes in income levels over time",
+      "b) To track changes in the price level of a basket of goods and services over time",
+      "c) To measure the total GDP of a country",
+      "d) To calculate changes in government spending"
+    ],
+    "correct": 1,
+    "explanation": "The CPI measures inflation by tracking how the prices of a selected basket of consumer goods and services change over time."
+  },
+  {
+    "question": "What is the substitution effect?",
+    "choices": [
+      "a) When consumers switch to cheaper alternatives as prices rise",
+      "b) When producers substitute cheaper inputs to reduce costs",
+      "c) When consumers buy more as their income rises",
+      "d) When prices drop and consumers buy more of the same product"
+    ],
+    "correct": 0,
+    "explanation": "The substitution effect occurs when consumers opt for less expensive alternatives as the price of a preferred product increases, thus impacting demand."
+  },
+  {
+    "question": "What is a progressive tax system?",
+    "choices": [
+      "a) A tax system where all individuals pay the same tax rate",
+      "b) A tax system where lower-income earners pay a higher percentage",
+      "c) A tax system where higher-income earners pay a higher percentage of their income",
+      "d) A tax system that taxes only businesses"
+    ],
+    "correct": 2,
+    "explanation": "In a progressive tax system, the tax rate increases as the taxpayer's income increases, placing a higher burden on wealthier individuals."
+  },
+  {
+    "question": "What is the meaning of a price elasticity of demand greater than 1?",
+    "choices": [
+      "a) Demand is inelastic",
+      "b) Demand is perfectly elastic",
+      "c) Demand is elastic",
+      "d) Demand is unitary"
+    ],
+    "correct": 2,
+    "explanation": "When the price elasticity of demand is greater than 1, it means that demand is elastic, meaning consumers are highly responsive to changes in price."
+  },
+  {
+    "question": "What is an example of a normal good?",
+    "choices": [
+      "a) A good for which demand decreases as income increases",
+      "b) A good that has no relation to income changes",
+      "c) A good for which demand increases as income increases",
+      "d) A good that is consumed at the same level regardless of income"
+    ],
+    "correct": 2,
+    "explanation": "Normal goods are products for which demand rises as consumers' income rises, such as luxury items or higher-quality foods."
+  },
+  {
+    "question": "What does a production possibilities frontier (PPF) illustrate?",
+    "choices": [
+      "a) The total quantity of money in circulation",
+      "b) The opportunity costs and trade-offs between producing two different goods",
+      "c) The relationship between inflation and unemployment",
+      "d) The impact of taxes on supply and demand"
+    ],
+    "correct": 1,
+    "explanation": "The PPF shows the maximum feasible output combinations of two goods an economy can produce, illustrating trade-offs and opportunity costs."
+  },
+  {
+    "question": "What does a tariff do?",
+    "choices": [
+      "a) It reduces production costs",
+      "b) It imposes a tax on imported goods",
+      "c) It regulates the supply of domestic goods",
+      "d) It eliminates trade barriers"
+    ],
+    "correct": 1,
+    "explanation": "A tariff is a tax on imports that makes foreign goods more expensive and encourages consumers to buy domestically produced goods."
+  },
+  {
+    "question": "What happens to total revenue when demand is elastic and price increases?",
+    "choices": [
+      "a) Total revenue increases",
+      "b) Total revenue decreases",
+      "c) Total revenue remains the same",
+      "d) Total revenue fluctuates unpredictably"
+    ],
+    "correct": 1,
+    "explanation": "When demand is elastic, consumers are highly responsive to price changes, so an increase in price leads to a significant drop in quantity demanded, reducing total revenue."
+  },
+  {
+    "question": "What are public goods?",
+    "choices": [
+      "a) Goods that are only consumed by a specific group of people",
+      "b) Goods that are both non-excludable and non-rivalrous",
+      "c) Goods that require a direct payment for use",
+      "d) Goods that can only be produced by private firms"
+    ],
+    "correct": 1,
+    "explanation": "Public goods, such as street lighting or national defense, are available to all without reducing their availability to others, and no one can be excluded from using them."
+  },
+  {
+    "question": "What is the role of the Federal Reserve in the U.S. economy?",
+    "choices": [
+      "a) To set national income levels",
+      "b) To control inflation and manage the money supply",
+      "c) To regulate international trade",
+      "d) To monitor government spending"
+    ],
+    "correct": 1,
+    "explanation": "The Federal Reserve is responsible for controlling inflation, managing the money supply, and setting interest rates to ensure economic stability."
+  },
+  {
+    "question": "What is the main objective of expansionary fiscal policy?",
+    "choices": [
+      "a) To reduce inflation",
+      "b) To reduce government spending",
+      "c) To stimulate economic growth",
+      "d) To increase interest rates"
+    ],
+    "correct": 2,
+    "explanation": "Expansionary fiscal policy, such as increasing government spending or cutting taxes, aims to boost economic activity, especially during recessions."
+  },
+  {
+    "question": "What is a budget deficit?",
+    "choices": [
+      "a) When the government spends more than it receives in taxes",
+      "b) When the government receives more in taxes than it spends",
+      "c) When the economy grows faster than expected",
+      "d) When the central bank reduces the money supply"
+    ],
+    "correct": 0,
+    "explanation": "A budget deficit occurs when the government's expenditures exceed its revenues in a given fiscal period."
+  },
+  {
+    "question": "What is the invisible hand, according to Adam Smith?",
+    "choices": [
+      "a) Government intervention in the economy",
+      "b) The self-regulating nature of a free market",
+      "c) The role of central banks in setting interest rates",
+      "d) The impact of trade tariffs on economic growth"
+    ],
+    "correct": 1,
+    "explanation": "Adam Smith\u2019s \"invisible hand\" refers to the idea that individuals' pursuit of self-interest in free markets leads to the efficient allocation of resources, benefiting society as a whole."
+  },
+  {
+    "question": "What is cyclical unemployment?",
+    "choices": [
+      "a) Unemployment that occurs due to technological advancements",
+      "b) Unemployment caused by the fluctuation of the business cycle",
+      "c) Unemployment caused by workers changing jobs",
+      "d) Unemployment caused by insufficient job training"
+    ],
+    "correct": 1,
+    "explanation": "Cyclical unemployment occurs when there is a downturn in the economy, reducing demand for labor."
+  },
+  {
+    "question": "What is the main purpose of contractionary monetary policy?",
+    "choices": [
+      "a) To increase inflation",
+      "b) To decrease the money supply and control inflation",
+      "c) To stimulate economic growth",
+      "d) To increase consumer spending"
+    ],
+    "correct": 1,
+    "explanation": "Contractionary monetary policy reduces the money supply, raises interest rates, and helps control inflation by slowing down economic activity."
+  },
+  {
+    "question": "What happens to interest rates when the Federal Reserve buys government securities?",
+    "choices": [
+      "a) Interest rates increase",
+      "b) Interest rates remain unchanged",
+      "c) Interest rates decrease",
+      "d) Interest rates fluctuate unpredictably"
+    ],
+    "correct": 2,
+    "explanation": "When the Federal Reserve buys government securities, it injects money into the economy, increasing the money supply and lowering interest rates to encourage borrowing and investment."
+  },
+  {
+    "question": "What does the term \u201cmarginal\u201d refer to in economics?",
+    "choices": [
+      "a) The total sum of a good or service",
+      "b) The additional or incremental change from one more unit",
+      "c) The average of all units produced",
+      "d) The difference between total costs and total revenue"
+    ],
+    "correct": 1,
+    "explanation": "Marginal refers to the effect of producing or consuming one additional unit of a good or service, such as marginal cost or marginal benefit."
+  },
+  {
+    "question": "What is a comparative advantage?",
+    "choices": [
+      "a) When a country can produce more of a good than another country using the same resources",
+      "b) When a country can produce a good at a lower opportunity cost than another country",
+      "c) When a country imports more than it exports",
+      "d) When a country specializes in all goods"
+    ],
+    "correct": 1,
+    "explanation": "Comparative advantage occurs when a country can produce a good at a lower opportunity cost, leading to more efficient production and beneficial trade."
+  },
+  {
+    "question": "What is the business cycle?",
+    "choices": [
+      "a) The natural rate of unemployment",
+      "b) The recurring pattern of expansion and contraction in the economy",
+      "c) The cycle of investment in new technology",
+      "d) The process of job creation and destruction"
+    ],
+    "correct": 1,
+    "explanation": "The business cycle consists of periods of economic expansion (growth) followed by contraction (recession), and these fluctuations impact employment and output."
+  },
+  {
+    "question": "What is deadweight loss?",
+    "choices": [
+      "a) A reduction in total surplus due to market inefficiencies",
+      "b) The total cost of producing a good or service",
+      "c) The difference between supply and demand",
+      "d) The total profit made by a monopoly"
+    ],
+    "correct": 0,
+    "explanation": "Deadweight loss refers to lost economic efficiency that occurs when the equilibrium outcome is not achieved, often due to taxes, subsidies, or other market distortions."
+  },
+  {
+    "question": "What is a command economy?",
+    "choices": [
+      "a) An economy where decisions are made by individual firms and households",
+      "b) An economy where production and prices are controlled by the government",
+      "c) An economy with no government involvement",
+      "d) An economy driven solely by international trade"
+    ],
+    "correct": 1,
+    "explanation": "In a command economy, the government controls all major aspects of production and pricing, and individual choices are limited."
+  },
+  {
+    "question": "What is meant by structural unemployment?",
+    "choices": [
+      "a) Unemployment caused by short-term economic fluctuations",
+      "b) Unemployment caused by changes in the structure of the economy, such as technological advancements or shifts in demand",
+      "c) Unemployment caused by seasonal changes in labor demand",
+      "d) Unemployment due to lack of job-search effort"
+    ],
+    "correct": 1,
+    "explanation": "Structural unemployment occurs when industries decline or technologies replace jobs, leading to a mismatch between workers' skills and available jobs."
+  },
+  {
+    "question": "What is a monopoly?",
+    "choices": [
+      "a) A market with many buyers and sellers",
+      "b) A market where only one firm supplies a product with no close substitutes",
+      "c) A market where prices are regulated by the government",
+      "d) A market where consumers set the prices"
+    ],
+    "correct": 1,
+    "explanation": "In a monopoly, a single firm dominates the market, often leading to higher prices and reduced consumer choices due to the lack of competition."
+  },
+  {
+    "question": "What does gross domestic product (GDP) measure?",
+    "choices": [
+      "a) The total value of all financial transactions in an economy",
+      "b) The total value of all goods and services produced within a country\u2019s borders over a specific period",
+      "c) The amount of income earned by households",
+      "d) The total amount of foreign investment in an economy"
+    ],
+    "correct": 1,
+    "explanation": "GDP is the most common measure of a country\u2019s economic performance, representing the total value of all goods and services produced domestically."
+  },
+  {
+    "question": "What is an excise tax?",
+    "choices": [
+      "a) A tax on the sale of imported goods",
+      "b) A tax on the production or sale of a specific good",
+      "c) A tax based on individual income",
+      "d) A tax on property ownership"
+    ],
+    "correct": 1,
+    "explanation": "Excise taxes are levied on specific goods, such as gasoline, tobacco, or alcohol, and are often used to reduce consumption of harmful products."
+  },
+  {
+    "question": "What is the law of diminishing marginal utility?",
+    "choices": [
+      "a) As more of a good is consumed, the additional satisfaction from consuming an extra unit decreases",
+      "b) As more goods are produced, the cost of production decreases",
+      "c) As demand for a product increases, prices tend to fall",
+      "d) As the price of a good rises, the satisfaction from consuming it increases"
+    ],
+    "correct": 0,
+    "explanation": "The law of diminishing marginal utility states that as a person consumes more of a product, the satisfaction gained from each additional unit decreases."
+  },
+  {
+    "question": "What is the marginal cost?",
+    "choices": [
+      "a) The cost of producing one more unit of a good",
+      "b) The total cost divided by the quantity of output",
+      "c) The cost of all inputs used in production",
+      "d) The difference between fixed and variable costs"
+    ],
+    "correct": 0,
+    "explanation": "Marginal cost is the additional cost incurred when producing one more unit of a good, calculated by the change in total cost divided by the change in output."
+  },
+  {
+    "question": "What is the definition of opportunity cost?",
+    "choices": [
+      "a) The monetary cost of a decision",
+      "b) The value of the next best alternative foregone when making a choice",
+      "c) The total cost of all possible alternatives",
+      "d) The amount of money saved by making a particular decision"
+    ],
+    "correct": 1,
+    "explanation": "Opportunity cost refers to the benefits or value that must be given up to choose one option over another."
+  },
+  {
+    "question": "What is the meaning of inelastic demand?",
+    "choices": [
+      "a) Demand is highly responsive to price changes",
+      "b) Demand remains unchanged regardless of price changes",
+      "c) Demand is relatively unresponsive to price changes",
+      "d) Demand fluctuates with changes in income"
+    ],
+    "correct": 2,
+    "explanation": "Inelastic demand means that consumers' quantity demanded does not change significantly when prices change, often because the good is a necessity or has few substitutes."
+  },
+  {
+    "question": "What is a price ceiling?",
+    "choices": [
+      "a) A legal minimum price for a good or service",
+      "b) A government-imposed limit on how high a price can be charged for a good or service",
+      "c) The price that clears the market",
+      "d) A maximum price set by the producer"
+    ],
+    "correct": 1,
+    "explanation": "Price ceilings prevent prices from rising above a certain level, often used to make essential goods more affordable but can lead to shortages."
+  },
+  {
+    "question": "What does the law of diminishing returns state?",
+    "choices": [
+      "a) As more of a variable input is added to a fixed input, the additional output will increase at a constant rate",
+      "b) As more of a variable input is added to a fixed input, the additional output will eventually decrease",
+      "c) Output will always increase when more inputs are used",
+      "d) Output remains unchanged regardless of input levels"
+    ],
+    "correct": 1,
+    "explanation": "The law of diminishing returns suggests that adding more of one input, while keeping others constant, will eventually result in smaller increases in output."
+  },
+  {
+    "question": "What is the difference between short-run and long-run in economics?",
+    "choices": [
+      "a) In the short-run, all factors of production are variable, while in the long-run, only labor is variable",
+      "b) In the short-run, only some factors of production are variable, while in the long-run, all factors of production are variable",
+      "c) In the long-run, firms face no competition",
+      "d) In the short-run, firms face no fixed costs"
+    ],
+    "correct": 1,
+    "explanation": "In the short run, at least one factor of production is fixed (e.g., capital), while in the long run, all inputs can be adjusted."
+  },
+  {
+    "question": "What does the term \u201cceteris paribus\u201d mean in economics?",
+    "choices": [
+      "a) The relationship between price and quantity supplied",
+      "b) The law of increasing opportunity costs",
+      "c) Holding all other variables constant while examining one specific variable",
+      "d) A situation where all factors of production are utilized"
+    ],
+    "correct": 2,
+    "explanation": "Ceteris paribus is a Latin phrase meaning \"all other things being equal,\" used to isolate the effect of one variable while holding others constant."
+  },
+  {
+    "question": "What is an externality?",
+    "choices": [
+      "a) A cost or benefit that affects parties who are not involved in a transaction",
+      "b) A tax imposed on goods and services",
+      "c) A government policy that regulates supply",
+      "d) A company\u2019s external audit of financial statements"
+    ],
+    "correct": 0,
+    "explanation": "Externalities occur when a third party is affected by an economic activity, such as pollution from a factory impacting local residents."
+  },
+  {
+    "question": "What is the natural rate of unemployment?",
+    "choices": [
+      "a) The unemployment rate during periods of economic recession",
+      "b) The level of unemployment consistent with stable inflation",
+      "c) The rate of unemployment caused by cyclical downturns",
+      "d) The unemployment rate when inflation is zero"
+    ],
+    "correct": 1,
+    "explanation": "The natural rate of unemployment includes frictional and structural unemployment, reflecting the long-term equilibrium in the labor market."
+  },
+  {
+    "question": "What is the primary purpose of the World Trade Organization (WTO)?",
+    "choices": [
+      "a) To regulate currency exchange rates",
+      "b) To promote free trade and resolve trade disputes between countries",
+      "c) To control international oil prices",
+      "d) To lend money to developing nations"
+    ],
+    "correct": 1,
+    "explanation": "The WTO facilitates global trade by helping countries negotiate trade agreements and resolve disputes that arise in international commerce."
+  },
+  {
+    "question": "What is meant by human capital?",
+    "choices": [
+      "a) The total number of workers in an economy",
+      "b) The physical capital used in production",
+      "c) The knowledge, skills, and experience possessed by workers",
+      "d) The amount of money invested in a business"
+    ],
+    "correct": 2,
+    "explanation": "Human capital refers to the education, skills, and expertise that workers bring to their jobs, which can improve productivity and economic growth."
+  },
+  {
+    "question": "What is fiscal policy?",
+    "choices": [
+      "a) Government policy that involves changes in interest rates",
+      "b) Government spending and tax policies used to influence the economy",
+      "c) Policies aimed at reducing the money supply",
+      "d) Regulations that control international trade"
+    ],
+    "correct": 1,
+    "explanation": "Fiscal policy refers to the use of government spending and taxation to influence the economy, often to control inflation, reduce unemployment, or stimulate growth."
+  },
+  {
+    "question": "What is a progressive tax?",
+    "choices": [
+      "a) A tax that decreases as income increases",
+      "b) A tax where everyone pays the same percentage of their income",
+      "c) A tax that increases as income increases",
+      "d) A tax on the sale of goods and services"
+    ],
+    "correct": 2,
+    "explanation": "In a progressive tax system, higher-income individuals pay a larger percentage of their income in taxes compared to lower-income individuals."
+  },
+  {
+    "question": "What is the function of the Federal Reserve?",
+    "choices": [
+      "a) To regulate trade with foreign countries",
+      "b) To manage the money supply and control inflation",
+      "c) To set tax rates for businesses and individuals",
+      "d) To make fiscal policy decisions"
+    ],
+    "correct": 1,
+    "explanation": "The Federal Reserve, the central bank of the United States, uses tools like interest rates and open market operations to regulate the money supply and control inflation."
+  },
+  {
+    "question": "What is the difference between nominal and real GDP?",
+    "choices": [
+      "a) Nominal GDP is adjusted for inflation, while real GDP is not",
+      "b) Nominal GDP includes exports, while real GDP does not",
+      "c) Real GDP is adjusted for inflation, while nominal GDP is not",
+      "d) Real GDP only measures goods, while nominal GDP measures services"
+    ],
+    "correct": 2,
+    "explanation": "Real GDP accounts for changes in price levels by adjusting for inflation, giving a more accurate measure of an economy's output over time."
+  },
+  {
+    "question": "What is the purpose of an import tariff?",
+    "choices": [
+      "a) To decrease the price of imported goods",
+      "b) To protect domestic industries by making foreign goods more expensive",
+      "c) To encourage exports to foreign markets",
+      "d) To increase the quantity of imports"
+    ],
+    "correct": 1,
+    "explanation": "Import tariffs are taxes on imported goods designed to make foreign products more expensive, helping to protect domestic producers from competition."
+  },
+  {
+    "question": "What is perfect competition?",
+    "choices": [
+      "a) A market structure where many firms produce identical products, and no single firm has market control",
+      "b) A market dominated by one seller that controls prices",
+      "c) A market where a few firms control the majority of market share",
+      "d) A market where consumers set the prices of goods"
+    ],
+    "correct": 0,
+    "explanation": "In perfect competition, many firms sell identical products, and all firms are price takers with no ability to influence the market price."
+  },
+  {
+    "question": "What happens to the equilibrium price when demand increases and supply remains constant?",
+    "choices": [
+      "a) The equilibrium price decreases",
+      "b) The equilibrium price remains the same",
+      "c) The equilibrium price increases",
+      "d) The equilibrium price fluctuates unpredictably"
+    ],
+    "correct": 2,
+    "explanation": "When demand increases and supply remains constant, the equilibrium price rises as more consumers are willing to pay higher prices for the same quantity of goods."
+  },
+  {
+    "question": "What is an oligopoly?",
+    "choices": [
+      "a) A market structure where many firms compete with identical products",
+      "b) A market structure dominated by a few large firms that control prices",
+      "c) A market where one firm controls the entire supply",
+      "d) A market where consumers have complete control over prices"
+    ],
+    "correct": 1,
+    "explanation": "In an oligopoly, a small number of large firms dominate the market, often leading to price setting and reduced competition."
+  },
+  {
+    "question": "What is inflation?",
+    "choices": [
+      "a) A general decrease in the price level of goods and services",
+      "b) A steady increase in wages over time",
+      "c) A sustained increase in the overall price level of goods and services",
+      "d) A temporary fluctuation in prices due to supply shocks"
+    ],
+    "correct": 2,
+    "explanation": "Inflation is the rate at which the general level of prices for goods and services rises, eroding purchasing power over time."
+  },
+  {
+    "question": "What is the role of the International Monetary Fund (IMF)?",
+    "choices": [
+      "a) To manage the money supply in the U.S.",
+      "b) To provide loans to developing countries to stabilize their economies",
+      "c) To regulate international trade tariffs",
+      "d) To set exchange rates for all currencies"
+    ],
+    "correct": 1,
+    "explanation": "The IMF helps stabilize global economies by providing short-term loans to countries in financial distress, promoting economic stability and growth."
+  },
+  {
+    "question": "What does GDP per capita measure?",
+    "choices": [
+      "a) The total output of a country",
+      "b) The amount of goods and services produced in a country",
+      "c) The average economic output per person",
+      "d) The difference between imports and exports"
+    ],
+    "correct": 2,
+    "explanation": "GDP per capita is the total GDP of a country divided by its population, providing an average measure of economic output per individual."
+  },
+  {
+    "question": "What is a business cycle?",
+    "choices": [
+      "a) The total production and consumption over a year",
+      "b) The short-term fluctuations in economic activity that an economy experiences over time",
+      "c) The long-term growth pattern of an economy",
+      "d) The stages of product development in a company"
+    ],
+    "correct": 1,
+    "explanation": "The business cycle represents periods of economic expansion and contraction, characterized by growth (booms) and recessions."
+  },
+  {
+    "question": "What is deflation?",
+    "choices": [
+      "a) A rise in the price of goods and services",
+      "b) A decrease in the general price level of goods and services",
+      "c) A reduction in the supply of goods",
+      "d) An increase in consumer demand"
+    ],
+    "correct": 1,
+    "explanation": "Deflation occurs when the general price level of goods and services decreases, increasing the purchasing power of money."
+  },
+  {
+    "question": "What is the primary goal of monetary policy?",
+    "choices": [
+      "a) To promote trade between countries",
+      "b) To regulate the stock market",
+      "c) To control inflation and stabilize the currency",
+      "d) To create jobs and reduce unemployment"
+    ],
+    "correct": 2,
+    "explanation": "Monetary policy is implemented by central banks to manage inflation, stabilize the currency, and influence interest rates to maintain economic stability."
+  },
+  {
+    "question": "What is the main purpose of a subsidy?",
+    "choices": [
+      "a) To increase government revenue",
+      "b) To encourage production or consumption of a particular good or service",
+      "c) To lower the cost of imports",
+      "d) To raise the price of exports"
+    ],
+    "correct": 1,
+    "explanation": "Subsidies are government payments or financial assistance to encourage the production or consumption of certain goods, often to support industries or reduce prices for consumers."
+  },
+  {
+    "question": "What is comparative advantage in international trade?",
+    "choices": [
+      "a) The ability of a country to produce more goods than another country",
+      "b) The ability of a country to produce a good at a lower opportunity cost than another country",
+      "c) The ability of a country to produce a good more quickly than other countries",
+      "d) The ability of a country to restrict trade from other nations"
+    ],
+    "correct": 1,
+    "explanation": "Comparative advantage refers to a country\u2019s ability to produce a good more efficiently, at a lower opportunity cost, compared to other countries."
+  },
+  {
+    "question": "What is the purpose of a trade quota?",
+    "choices": [
+      "a) To limit the price of imported goods",
+      "b) To reduce competition in the domestic market",
+      "c) To restrict the quantity of a good that can be imported or exported",
+      "d) To lower taxes on imports"
+    ],
+    "correct": 2,
+    "explanation": "Trade quotas are government-imposed limits on the quantity of goods that can be imported or exported, typically to protect domestic industries from excessive foreign competition."
+  },
+  {
+    "question": "What is the benefit of specialization in production?",
+    "choices": [
+      "a) Increased production of a wider variety of goods",
+      "b) Lower labor costs and more equitable distribution of wealth",
+      "c) Increased productivity and efficiency",
+      "d) Higher trade barriers"
+    ],
+    "correct": 2,
+    "explanation": "Specialization allows producers to focus on producing goods where they have a comparative advantage, leading to increased efficiency and higher output."
+  },
+  {
+    "question": "What is the main difference between fiscal policy and monetary policy?",
+    "choices": [
+      "a) Fiscal policy deals with government spending and taxation, while monetary policy deals with controlling the money supply and interest rates",
+      "b) Fiscal policy affects only state governments, while monetary policy affects federal governments",
+      "c) Fiscal policy is used to control inflation, while monetary policy is used to create jobs",
+      "d) Fiscal policy applies only to developing countries, while monetary policy is global"
+    ],
+    "correct": 0,
+    "explanation": "Fiscal policy involves government decisions on taxation and spending to influence the economy, while monetary policy is focused on regulating the money supply and interest rates through the central bank."
+  },
+  {
+    "question": "What is cyclical unemployment?",
+    "choices": [
+      "a) Unemployment caused by seasonal demand for labor",
+      "b) Unemployment due to changes in the business cycle",
+      "c) Unemployment caused by workers changing jobs",
+      "d) Unemployment caused by technological advances"
+    ],
+    "correct": 1,
+    "explanation": "Cyclical unemployment occurs when demand for goods and services decreases during economic downturns, leading to reduced hiring and job losses."
+  },
+  {
+    "question": "What is structural unemployment?",
+    "choices": [
+      "a) Unemployment caused by shifts in the economy that make certain skills obsolete",
+      "b) Unemployment caused by short-term downturns in the economy",
+      "c) Unemployment caused by workers moving to new locations",
+      "d) Unemployment that occurs only during recessions"
+    ],
+    "correct": 0,
+    "explanation": "Structural unemployment occurs when changes in technology or market conditions reduce the demand for certain skills, leaving workers unable to find jobs without retraining."
+  },
+  {
+    "question": "What is the primary goal of expansionary fiscal policy?",
+    "choices": [
+      "a) To decrease inflation",
+      "b) To increase government revenue",
+      "c) To stimulate economic growth and reduce unemployment",
+      "d) To reduce the money supply"
+    ],
+    "correct": 2,
+    "explanation": "Expansionary fiscal policy aims to boost economic activity by increasing government spending, cutting taxes, or both, leading to job creation and economic growth."
+  },
+  {
+    "question": "What is a recession?",
+    "choices": [
+      "a) A period of rising prices and high inflation",
+      "b) A prolonged period of economic decline characterized by falling GDP and rising unemployment",
+      "c) A period of increasing investment and stock market growth",
+      "d) A temporary reduction in consumer spending"
+    ],
+    "correct": 1,
+    "explanation": "A recession is defined as a significant decline in economic activity, lasting for months or years, marked by a decrease in GDP, employment, and other economic indicators."
+  },
+  {
+    "question": "What is gross domestic product (GDP)?",
+    "choices": [
+      "a) The total income earned by a country\u2019s residents",
+      "b) The market value of all goods and services produced within a country during a specific period",
+      "c) The total value of exports minus imports",
+      "d) The sum of all investment and government spending"
+    ],
+    "correct": 1,
+    "explanation": "GDP measures the total economic output of a country, including all goods and services produced within its borders over a given time."
+  },
+  {
+    "question": "What is the purpose of a price floor?",
+    "choices": [
+      "a) To protect consumers from high prices",
+      "b) To prevent prices from falling below a certain level",
+      "c) To reduce inflation",
+      "d) To increase competition"
+    ],
+    "correct": 1,
+    "explanation": "Price floors are government-imposed minimum prices that prevent prices from dropping too low, often used to protect producers of essential goods like agricultural products."
+  },
+  {
+    "question": "What is a monopoly?",
+    "choices": [
+      "a) A market structure with many firms producing similar products",
+      "b) A market structure in which one firm dominates and controls the market",
+      "c) A market where consumers have complete control over prices",
+      "d) A market with free entry and exit for firms"
+    ],
+    "correct": 1,
+    "explanation": "A monopoly exists when a single firm dominates a market, facing little to no competition, allowing it to set prices and control the supply of a good or service."
+  },
+  {
+    "question": "What does the term \u201cfree trade\u201d mean?",
+    "choices": [
+      "a) Trade between countries with no restrictions or tariffs",
+      "b) Trade that only involves bartering goods without currency",
+      "c) Trade between countries that are part of the same economic union",
+      "d) Trade that includes government regulations"
+    ],
+    "correct": 0,
+    "explanation": "Free trade refers to the unrestricted exchange of goods and services between countries, without tariffs, quotas, or other trade barriers."
+  },
+  {
+    "question": "What is the law of diminishing marginal utility?",
+    "choices": [
+      "a) The total utility increases as more units of a good are consumed",
+      "b) The additional satisfaction gained from consuming each extra unit of a good decreases as consumption increases",
+      "c) Consumers always experience increasing satisfaction with each additional unit consumed",
+      "d) Consumers prefer to consume goods with lower prices"
+    ],
+    "correct": 1,
+    "explanation": "The law of diminishing marginal utility states that as a person consumes more of a good, the additional satisfaction gained from each extra unit decreases."
+  },
+  {
+    "question": "What is an excise tax?",
+    "choices": [
+      "a) A tax imposed on imported goods",
+      "b) A tax on the sale or production of specific goods, like alcohol or tobacco",
+      "c) A tax on property ownership",
+      "d) A tax levied on individual income"
+    ],
+    "correct": 1,
+    "explanation": "Excise taxes are imposed on the sale or production of specific goods, often used to discourage consumption or raise revenue from products like alcohol and tobacco."
+  },
+  {
+    "question": "What is demand-pull inflation?",
+    "choices": [
+      "a) Inflation caused by an increase in aggregate demand",
+      "b) Inflation caused by rising production costs",
+      "c) Inflation caused by government intervention in the market",
+      "d) Inflation caused by decreasing demand"
+    ],
+    "correct": 0,
+    "explanation": "Demand-pull inflation occurs when overall demand for goods and services exceeds supply, leading to higher prices."
+  },
+  {
+    "question": "What is cost-push inflation?",
+    "choices": [
+      "a) Inflation caused by rising aggregate demand",
+      "b) Inflation caused by increasing production costs, such as wages or raw materials",
+      "c) Inflation caused by decreased competition in the market",
+      "d) Inflation caused by technological advancements"
+    ],
+    "correct": 1,
+    "explanation": "Cost-push inflation arises when the costs of production increase, leading firms to raise prices to maintain profit margins."
+  },
+  {
+    "question": "What is a progressive tax?",
+    "choices": [
+      "a) A tax that decreases as income increases",
+      "b) A tax that remains the same regardless of income",
+      "c) A tax that increases as income increases",
+      "d) A tax that is applied only to luxury goods"
+    ],
+    "correct": 2,
+    "explanation": "A progressive tax system imposes higher tax rates on individuals or entities with higher incomes, with the intent of creating a more equitable distribution of wealth."
+  },
+  {
+    "question": "What is the primary role of the World Trade Organization (WTO)?",
+    "choices": [
+      "a) To monitor and enforce international labor standards",
+      "b) To regulate currency exchange rates between nations",
+      "c) To promote free trade by reducing tariffs and other trade barriers",
+      "d) To provide financial aid to developing countries"
+    ],
+    "correct": 2,
+    "explanation": "The WTO promotes global trade by encouraging countries to reduce tariffs and trade barriers, ensuring smooth and predictable international commerce."
+  },
+  {
+    "question": "What is the difference between nominal and real GDP?",
+    "choices": [
+      "a) Nominal GDP is adjusted for inflation, while real GDP is not",
+      "b) Nominal GDP includes government spending, while real GDP does not",
+      "c) Nominal GDP is measured using current prices, while real GDP is adjusted for inflation",
+      "d) There is no difference between nominal and real GDP"
+    ],
+    "correct": 2,
+    "explanation": "Nominal GDP reflects the total value of goods and services at current prices, while real GDP adjusts for inflation, providing a more accurate measure of economic growth."
+  },
+  {
+    "question": "What is a subsidy?",
+    "choices": [
+      "a) A tax imposed on imported goods",
+      "b) A direct payment or financial support provided by the government to encourage production",
+      "c) A government-mandated price floor on agricultural products",
+      "d) A penalty imposed on businesses for polluting"
+    ],
+    "correct": 1,
+    "explanation": "Subsidies are financial incentives provided by the government to encourage the production of certain goods or services, often used in agriculture or renewable energy."
+  },
+  {
+    "question": "What is the \u201cinvisible hand\u201d in economics?",
+    "choices": [
+      "a) The influence of government regulation on markets",
+      "b) The role of central banks in controlling inflation",
+      "c) The concept that self-interest in a free market leads to economic prosperity",
+      "d) The way technological advancements impact global trade"
+    ],
+    "correct": 2,
+    "explanation": "The invisible hand, a term coined by Adam Smith, refers to the unintended social benefits of individual actions driven by self-interest in a competitive market."
+  },
+  {
+    "question": "What is capital in economics?",
+    "choices": [
+      "a) The money used to pay for wages and salaries",
+      "b) The goods and resources used to produce other goods and services",
+      "c) The land on which production facilities are built",
+      "d) The total number of goods and services produced in an economy"
+    ],
+    "correct": 1,
+    "explanation": "Capital refers to the tools, machinery, and infrastructure that are used in the production of goods and services, as opposed to labor or natural resources."
+  },
+  {
+    "question": "What is a public good?",
+    "choices": [
+      "a) A good that is provided only to paying customers",
+      "b) A good that is non-excludable and non-rivalrous, meaning it can be used by anyone without reducing its availability to others",
+      "c) A good that is produced by private companies for profit",
+      "d) A good that is consumed by only a select group of people"
+    ],
+    "correct": 1,
+    "explanation": "Public goods, such as national defense or street lighting, are available to everyone and cannot be restricted based on payment or consumption."
+  },
+  {
+    "question": "What is the purpose of a tariff?",
+    "choices": [
+      "a) To encourage imports from foreign countries",
+      "b) To generate revenue for the government and protect domestic industries from foreign competition",
+      "c) To reduce the cost of goods in the domestic market",
+      "d) To promote free trade between nations"
+    ],
+    "correct": 1,
+    "explanation": "Tariffs are taxes imposed on imported goods, used to generate revenue and protect domestic industries from foreign competition by making imported goods more expensive."
+  },
+  {
+    "question": "What is the definition of marginal cost?",
+    "choices": [
+      "a) The total cost of producing all goods",
+      "b) The cost of producing one more unit of a good",
+      "c) The amount a consumer is willing to pay for an additional unit",
+      "d) The difference between fixed and variable costs"
+    ],
+    "correct": 1,
+    "explanation": "Marginal cost refers to the additional cost incurred when producing one more unit of a good or service. It helps businesses in deciding how much to produce."
+  },
+  {
+    "question": "What does the term \u201cprice elasticity of demand\u201d refer to?",
+    "choices": [
+      "a) How much the quantity demanded responds to changes in price",
+      "b) How much prices fluctuate over time",
+      "c) The difference between supply and demand",
+      "d) The effect of subsidies on the market"
+    ],
+    "correct": 0,
+    "explanation": "Price elasticity of demand measures the responsiveness of consumers to changes in price. A higher elasticity means demand is more sensitive to price changes."
+  },
+  {
+    "question": "What is the goal of antitrust laws?",
+    "choices": [
+      "a) To create monopolies",
+      "b) To protect consumers from high prices",
+      "c) To prevent monopolies and promote competition",
+      "d) To regulate international trade"
+    ],
+    "correct": 2,
+    "explanation": "Antitrust laws are designed to prevent monopolies, promote competition, and protect consumers by ensuring no single company can dominate a market unfairly."
+  },
+  {
+    "question": "What is the impact of a price ceiling?",
+    "choices": [
+      "a) It creates a surplus in the market",
+      "b) It sets the maximum price that can be charged for a good or service",
+      "c) It encourages businesses to raise prices",
+      "d) It increases supply and lowers demand"
+    ],
+    "correct": 1,
+    "explanation": "A price ceiling is a government-imposed limit on how high a price can be charged for a good or service, often leading to shortages if the ceiling is below equilibrium price."
+  },
+  {
+    "question": "What is the result of a price floor being set above the equilibrium price?",
+    "choices": [
+      "a) It leads to excess supply or a surplus",
+      "b) It causes prices to drop",
+      "c) It increases consumer demand",
+      "d) It creates a shortage of goods"
+    ],
+    "correct": 0,
+    "explanation": "When a price floor is set above the equilibrium price, suppliers are willing to produce more than consumers are willing to buy, leading to a surplus."
+  },
+  {
+    "question": "What is a monopoly?",
+    "choices": [
+      "a) A market with many competitors",
+      "b) A market dominated by a single seller",
+      "c) A situation where all firms have the same market share",
+      "d) A system where no firm has any market power"
+    ],
+    "correct": 1,
+    "explanation": "A monopoly exists when a single company or entity dominates a market, controlling the supply of a good or service and setting prices without competition."
+  },
+  {
+    "question": "What is an oligopoly?",
+    "choices": [
+      "a) A market with only one producer",
+      "b) A market dominated by a few large producers",
+      "c) A market with no government intervention",
+      "d) A market where prices are set by consumers"
+    ],
+    "correct": 1,
+    "explanation": "An oligopoly is a market structure where a small number of firms dominate the industry. These firms may collude to set prices or output levels."
+  },
+  {
+    "question": "What is the primary purpose of taxes?",
+    "choices": [
+      "a) To increase the supply of goods",
+      "b) To generate revenue for the government",
+      "c) To decrease consumer demand",
+      "d) To reduce inflation"
+    ],
+    "correct": 1,
+    "explanation": "Taxes are imposed by governments to raise revenue for public services, infrastructure, and other governmental functions."
+  },
+  {
+    "question": "What is inflation?",
+    "choices": [
+      "a) A decrease in the price level of goods and services",
+      "b) An increase in the general price level of goods and services over time",
+      "c) A decline in consumer spending",
+      "d) A rise in the production of goods"
+    ],
+    "correct": 1,
+    "explanation": "Inflation refers to the sustained increase in the overall price level of goods and services in an economy over a period of time, reducing the purchasing power of money."
+  },
+  {
+    "question": "What is the role of the Federal Reserve in the U.S. economy?",
+    "choices": [
+      "a) To set tax rates",
+      "b) To regulate the stock market",
+      "c) To manage monetary policy and control inflation",
+      "d) To provide loans to businesses"
+    ],
+    "correct": 2,
+    "explanation": "The Federal Reserve, as the central bank of the U.S., manages the money supply and interest rates to maintain price stability and control inflation."
+  },
+  {
+    "question": "What is a public good?",
+    "choices": [
+      "a) A good that can only be used by those who pay for it",
+      "b) A good that is non-excludable and non-rivalrous",
+      "c) A good that is provided exclusively by private firms",
+      "d) A good that is consumed individually by a single consumer"
+    ],
+    "correct": 1,
+    "explanation": "Public goods, like street lighting or national defense, are non-excludable and non-rivalrous, meaning they are available to everyone without diminishing in supply."
+  },
+  {
+    "question": "What is the function of a subsidy?",
+    "choices": [
+      "a) To encourage the production or consumption of a particular good",
+      "b) To increase consumer prices",
+      "c) To reduce government spending",
+      "d) To eliminate tariffs"
+    ],
+    "correct": 0,
+    "explanation": "Subsidies are financial aid provided by the government to encourage the production or consumption of certain goods, reducing the cost to consumers."
+  },
+  {
+    "question": "What does the term \u201copportunity cost\u201d mean?",
+    "choices": [
+      "a) The financial cost of a business decision",
+      "b) The benefit lost when choosing one alternative over another",
+      "c) The total cost of all inputs",
+      "d) The additional cost of producing one more unit"
+    ],
+    "correct": 1,
+    "explanation": "Opportunity cost represents the value of the next best alternative that is forgone when making a choice."
+  },
+  {
+    "question": "What is perfect competition?",
+    "choices": [
+      "a) A market with a single producer",
+      "b) A market where firms have no control over prices and all products are identical",
+      "c) A market with government-set prices",
+      "d) A market where firms control both price and supply"
+    ],
+    "correct": 1,
+    "explanation": "In perfect competition, many firms sell identical products, and no single firm can influence the price, which is determined by supply and demand."
+  },
+  {
+    "question": "What is the definition of fixed costs?",
+    "choices": [
+      "a) Costs that vary with the level of output",
+      "b) Costs that do not change regardless of the level of output",
+      "c) The cost of raw materials",
+      "d) The cost of labor"
+    ],
+    "correct": 1,
+    "explanation": "Fixed costs remain constant, regardless of how much is produced. Examples include rent, insurance, and salaries of permanent staff."
+  },
+  {
+    "question": "What is the law of diminishing returns?",
+    "choices": [
+      "a) The idea that increasing production always leads to lower costs",
+      "b) The concept that as more units of a variable input are added to fixed inputs, the additional output will eventually decrease",
+      "c) The idea that more production will always result in higher profits",
+      "d) The relationship between supply and demand"
+    ],
+    "correct": 1,
+    "explanation": "The law of diminishing returns states that after a certain point, each additional unit of input results in a smaller increase in output."
+  },
+  {
+    "question": "What is a tariff?",
+    "choices": [
+      "a) A tax imposed on domestic goods",
+      "b) A tax on imported goods",
+      "c) A fee for licensing intellectual property",
+      "d) A penalty for monopolistic practices"
+    ],
+    "correct": 1,
+    "explanation": "A tariff is a tax imposed on goods imported into a country, often to protect domestic industries from foreign competition or raise government revenue."
+  },
+  {
+    "question": "What is the balance of payments?",
+    "choices": [
+      "a) A record of all monetary transactions between a country and the rest of the world",
+      "b) The difference between a country\u2019s imports and exports",
+      "c) A measure of a country\u2019s debt",
+      "d) The financial statement of a company"
+    ],
+    "correct": 0,
+    "explanation": "The balance of payments summarizes all economic transactions, including trade, services, and capital flows, between residents of a country and the rest of the world."
+  },
+  {
+    "question": "What is meant by the term \u201cmarket failure\u201d?",
+    "choices": [
+      "a) The collapse of an entire industry",
+      "b) A situation where free markets lead to inefficient outcomes",
+      "c) A shortage of goods in the market",
+      "d) The monopolization of an industry"
+    ],
+    "correct": 1,
+    "explanation": "Market failure occurs when the free market does not allocate resources efficiently, leading to outcomes like pollution or inequality."
+  },
+  {
+    "question": "What is meant by \u201cexternalities\u201d in economics?",
+    "choices": [
+      "a) The internal costs of a firm",
+      "b) The benefits or costs imposed on third parties not involved in a transaction",
+      "c) The additional costs borne by producers",
+      "d) The financial transactions between businesses"
+    ],
+    "correct": 1,
+    "explanation": "Externalities occur when a transaction affects someone other than the buyer or seller. Positive externalities provide benefits, while negative externalities impose costs."
+  },
+  {
+    "question": "What is the purpose of fiscal policy?",
+    "choices": [
+      "a) To control inflation by adjusting interest rates",
+      "b) To regulate the stock market",
+      "c) To influence the economy through government spending and taxation",
+      "d) To stabilize the currency exchange rate"
+    ],
+    "correct": 2,
+    "explanation": "Fiscal policy involves adjusting government spending and tax policies to influence economic activity, such as boosting demand or controlling inflation."
+  },
+  {
+    "question": "What is Gross Domestic Product (GDP)?",
+    "choices": [
+      "a) The total value of goods produced by a country abroad",
+      "b) The total value of goods and services produced within a country\u2019s borders",
+      "c) The total value of all imports into a country",
+      "d) The total value of capital goods"
+    ],
+    "correct": 1,
+    "explanation": "GDP measures the total market value of all finished goods and services produced within a country's borders during a specific period, typically used to gauge economic performance."
+  },
+  {
+    "question": "What is the concept of comparative advantage?",
+    "choices": [
+      "a) The ability to produce goods at the lowest cost",
+      "b) The ability to produce a good at a lower opportunity cost than another producer",
+      "c) The ability to produce more goods than another country",
+      "d) The ability to dominate global markets"
+    ],
+    "correct": 1,
+    "explanation": "Comparative advantage refers to the ability of a country to produce a good at a lower opportunity cost than another country, allowing for more efficient production and trade."
+  },
+  {
+    "question": "What is a recession?",
+    "choices": [
+      "a) A period of economic growth",
+      "b) A sustained decline in economic activity, typically characterized by a decrease in GDP",
+      "c) An increase in government spending",
+      "d) A rise in inflation"
+    ],
+    "correct": 1,
+    "explanation": "A recession is defined as a significant decline in economic activity, lasting for an extended period, and is typically reflected by a fall in GDP and rising unemployment."
+  },
+  {
+    "question": "What is the Consumer Price Index (CPI)?",
+    "choices": [
+      "a) A measure of the total economic output of a country",
+      "b) A measure of the average price of goods and services consumed by households",
+      "c) A tool to calculate business profits",
+      "d) A method for tracking labor productivity"
+    ],
+    "correct": 1,
+    "explanation": "The CPI measures the average price level of a basket of consumer goods and services, and is commonly used to track inflation and the cost of living."
+  },
+  {
+    "question": "What is the natural rate of unemployment?",
+    "choices": [
+      "a) The rate of unemployment during a recession",
+      "b) The rate of unemployment when the economy is operating at full capacity",
+      "c) The rate of unemployment that occurs during periods of inflation",
+      "d) The rate of unemployment caused by government policies"
+    ],
+    "correct": 1,
+    "explanation": "The natural rate of unemployment represents the level of unemployment that exists when the economy is operating at full potential, accounting for frictional and structural unemployment but not cyclical unemployment."
+  },
+  {
+    "question": "What is a trade deficit?",
+    "choices": [
+      "a) When a country exports more goods than it imports",
+      "b) When a country imports more goods than it exports",
+      "c) When a country\u2019s exports equal its imports",
+      "d) When a country has no international trade"
+    ],
+    "correct": 1,
+    "explanation": "A trade deficit occurs when the value of a country's imports exceeds the value of its exports, resulting in an imbalance in trade."
+  },
+  {
+    "question": "What is a progressive tax system?",
+    "choices": [
+      "a) A tax system where everyone pays the same percentage of income",
+      "b) A tax system in which higher income earners pay a larger percentage of their income in taxes",
+      "c) A tax system where lower income earners pay more in taxes",
+      "d) A system where taxes are based on the consumption of goods and services"
+    ],
+    "correct": 1,
+    "explanation": "In a progressive tax system, the tax rate increases as an individual's income rises, meaning those with higher incomes pay a larger proportion of their earnings in taxes."
+  },
+  {
+    "question": "What is monetary policy?",
+    "choices": [
+      "a) Government policy that focuses on adjusting tax rates",
+      "b) Actions by the central bank to control the money supply and interest rates",
+      "c) Trade policies that affect international transactions",
+      "d) Policies that regulate labor markets"
+    ],
+    "correct": 1,
+    "explanation": "Monetary policy refers to actions taken by a central bank, such as the Federal Reserve, to regulate the money supply and interest rates in an effort to control inflation and stabilize the economy."
+  },
+  {
+    "question": "What is a public sector?",
+    "choices": [
+      "a) The part of the economy that is run by private businesses",
+      "b) The part of the economy that is controlled by households",
+      "c) The part of the economy that involves government services and operations",
+      "d) The sector of the economy that deals with imports and exports"
+    ],
+    "correct": 2,
+    "explanation": "The public sector refers to the part of the economy that is controlled and operated by the government, including services such as education, public safety, and infrastructure."
+  },
+  {
+    "question": "What is the difference between a nominal value and a real value?",
+    "choices": [
+      "a) Nominal value is adjusted for inflation, while real value is not",
+      "b) Nominal value is based on current prices, while real value is adjusted for inflation",
+      "c) Real value includes taxes, while nominal value does not",
+      "d) Nominal value is the future value, while real value is the present value"
+    ],
+    "correct": 1,
+    "explanation": "Nominal value refers to prices measured at current levels, while real value adjusts nominal prices to account for changes in inflation, providing a more accurate reflection of purchasing power over time."
+  },
+  {
+    "question": "What is the purpose of fiscal stimulus?",
+    "choices": [
+      "a) To increase inflation by decreasing government spending",
+      "b) To slow down the economy by reducing taxes",
+      "c) To increase economic activity through increased government spending or tax cuts",
+      "d) To decrease government debt by reducing spending"
+    ],
+    "correct": 2,
+    "explanation": "Fiscal stimulus refers to government policies aimed at boosting economic activity, often through increased public spending or tax cuts, particularly during times of economic downturn."
+  },
+  {
+    "question": "What does the term \u201cmarket equilibrium\u201d refer to?",
+    "choices": [
+      "a) When supply exceeds demand",
+      "b) When demand exceeds supply",
+      "c) When the quantity supplied equals the quantity demanded at a certain price",
+      "d) When the government sets the price of a good"
+    ],
+    "correct": 2,
+    "explanation": "Market equilibrium occurs when the quantity of goods supplied by producers matches the quantity demanded by consumers, resulting in a stable market price."
+  },
+  {
+    "question": "What is the impact of subsidies on production?",
+    "choices": [
+      "a) They decrease the cost of production and encourage more output",
+      "b) They increase the cost of production and discourage output",
+      "c) They have no impact on production",
+      "d) They raise prices for consumers"
+    ],
+    "correct": 0,
+    "explanation": "Subsidies reduce the cost of production for businesses, allowing them to produce more goods at a lower cost, often resulting in increased output and lower prices for consumers."
+  },
+  {
+    "question": "What is a budget deficit?",
+    "choices": [
+      "a) When government spending exceeds revenue in a given year",
+      "b) When a country\u2019s exports exceed imports",
+      "c) When a government has more revenue than spending",
+      "d) When government spending is equal to revenue"
+    ],
+    "correct": 0,
+    "explanation": "A budget deficit occurs when a government spends more money than it receives in revenue during a fiscal year, leading to borrowing or increased debt."
+  },
+  {
+    "question": "What is the function of an exchange rate?",
+    "choices": [
+      "a) To set the price of domestic goods",
+      "b) To determine the price at which one currency can be traded for another",
+      "c) To regulate the flow of goods between countries",
+      "d) To calculate inflation rates"
+    ],
+    "correct": 1,
+    "explanation": "An exchange rate represents the value of one country's currency in terms of another currency, facilitating international trade and investment."
+  },
+  {
+    "question": "What is meant by the term \u201ccapital\u201d?",
+    "choices": [
+      "a) The number of workers in an economy",
+      "b) The physical and financial resources used to produce goods and services",
+      "c) The total value of imports and exports in a country",
+      "d) The government revenue generated from taxes"
+    ],
+    "correct": 1,
+    "explanation": "Capital refers to the tools, machinery, buildings, and financial resources used by businesses to produce goods and services."
+  },
+  {
+    "question": "What is the result of inflation on purchasing power?",
+    "choices": [
+      "a) It increases purchasing power",
+      "b) It reduces purchasing power",
+      "c) It has no effect on purchasing power",
+      "d) It reduces the price of goods"
+    ],
+    "correct": 1,
+    "explanation": "Inflation erodes the purchasing power of money because as prices rise, each unit of currency buys fewer goods and services."
+  },
+  {
+    "question": "What is an import quota?",
+    "choices": [
+      "a) A tax on imported goods",
+      "b) A limit on the quantity of a good that can be imported",
+      "c) A subsidy for domestic producers",
+      "d) A requirement to export a certain percentage of goods"
+    ],
+    "correct": 1,
+    "explanation": "An import quota is a restriction imposed by a government on the quantity of a specific good that can be imported into a country during a set period."
+  },
+  {
+    "question": "What is meant by \u201cmarginal utility\u201d?",
+    "choices": [
+      "a) The total satisfaction received from consuming a good",
+      "b) The additional satisfaction received from consuming one more unit of a good",
+      "c) The cost of producing one more unit of a good",
+      "d) The price elasticity of a good"
+    ],
+    "correct": 1,
+    "explanation": "Marginal utility refers to the additional satisfaction or benefit that a consumer gains from consuming one more unit of a good or service."
+  },
+  {
+    "question": "What is meant by the term \u201cfree trade\u201d?",
+    "choices": [
+      "a) Trade that involves no tariffs, quotas, or restrictions between countries",
+      "b) Trade that is regulated by the government",
+      "c) Trade that occurs within a single country",
+      "d) Trade that occurs only through barter"
+    ],
+    "correct": 0,
+    "explanation": "Free trade allows goods and services to be exchanged between countries without barriers like tariffs, quotas, or government-imposed restrictions, promoting global commerce."
+  },
+  {
+    "question": "What is a public good?",
+    "choices": [
+      "a) A good that can be consumed by one individual only",
+      "b) A good that is non-excludable and non-rivalrous",
+      "c) A good that is produced by private firms",
+      "d) A good that is only consumed by the government"
+    ],
+    "correct": 1,
+    "explanation": "Public goods, such as clean air or national defense, can be consumed by everyone without reducing their availability to others, and no one can be excluded from their benefits."
+  },
+  {
+    "question": "What is the result of high tariffs on imported goods?",
+    "choices": [
+      "a) It lowers domestic prices",
+      "b) It makes imported goods more expensive and protects domestic industries",
+      "c) It increases international competition",
+      "d) It reduces government revenue"
+    ],
+    "correct": 1,
+    "explanation": "High tariffs increase the price of imported goods, making them less competitive with domestic products and giving an advantage to local industries."
+  },
+  {
+    "question": "What is a competitive market?",
+    "choices": [
+      "a) A market with only one seller",
+      "b) A market where many firms sell similar products and no single firm can influence the price",
+      "c) A market where the government controls prices",
+      "d) A market where firms set their own prices without competition"
+    ],
+    "correct": 1,
+    "explanation": "A competitive market is characterized by many firms offering similar products, with none able to control prices, as prices are determined by supply and demand."
+  },
+  {
+    "question": "What is the principle of diminishing marginal utility?",
+    "choices": [
+      "a) The idea that total utility increases with each additional unit consumed",
+      "b) The idea that the satisfaction gained from consuming additional units of a good decreases as more is consumed",
+      "c) The idea that the cost of production increases with each additional unit produced",
+      "d) The idea that consumers will always demand more of a good at lower prices"
+    ],
+    "correct": 1,
+    "explanation": "The principle of diminishing marginal utility states that as a person consumes more of a good, the additional satisfaction from consuming each extra unit decreases."
+  },
+  {
+    "question": "What is the purpose of trade unions?",
+    "choices": [
+      "a) To reduce wages",
+      "b) To promote competition between workers",
+      "c) To negotiate for better wages, working conditions, and benefits for employees",
+      "d) To eliminate government regulations"
+    ],
+    "correct": 2,
+    "explanation": "Trade unions represent the collective interests of workers and negotiate with employers for improved wages, working conditions, and benefits."
+  },
+  {
+    "question": "What does a supply curve show?",
+    "choices": [
+      "a) The relationship between price and the quantity supplied of a good",
+      "b) The relationship between demand and consumer preferences",
+      "c) The total amount of goods sold in a market",
+      "d) The difference between fixed and variable costs"
+    ],
+    "correct": 0,
+    "explanation": "A supply curve shows how much of a good producers are willing to supply at different price levels, typically upward sloping, indicating higher quantities at higher prices."
+  },
+  {
+    "question": "What is the World Trade Organization (WTO)?",
+    "choices": [
+      "a) An organization that regulates tariffs and taxes within countries",
+      "b) A global organization that ensures trade flows smoothly, predictably, and freely",
+      "c) A government agency that sets domestic trade policies",
+      "d) A union of countries that agree to eliminate all taxes on trade"
+    ],
+    "correct": 1,
+    "explanation": "The WTO is an international organization that works to facilitate global trade by reducing trade barriers and resolving trade disputes among member countries."
+  },
+  {
+    "question": "What is the purpose of government price controls?",
+    "choices": [
+      "a) To allow markets to determine prices",
+      "b) To set minimum or maximum prices for goods and services to prevent shortages or surpluses",
+      "c) To increase inflation",
+      "d) To eliminate competition between firms"
+    ],
+    "correct": 1,
+    "explanation": "Government price controls, such as price ceilings and price floors, are used to regulate prices in markets where supply and demand might lead to unfair outcomes."
+  },
+  {
+    "question": "What is the impact of a decrease in aggregate demand?",
+    "choices": [
+      "a) It leads to higher prices",
+      "b) It results in lower levels of production and higher unemployment",
+      "c) It causes inflation to rise",
+      "d) It increases consumer spending"
+    ],
+    "correct": 1,
+    "explanation": "A decrease in aggregate demand reduces the overall demand for goods and services in the economy, leading to lower production levels and higher unemployment."
+  }
+]
